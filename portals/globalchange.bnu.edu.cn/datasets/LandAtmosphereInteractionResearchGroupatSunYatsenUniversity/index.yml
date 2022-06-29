@@ -1,0 +1,15 @@
+abstract: "From the Land-Atmosphere Interaction Research Group of Beijing Normal University.\
+  \ Includes soil property grids and soil hydraulic and thermal parameters (NetCDF\
+  \ format) of the World horizontal resolution 30 arc-seconds (about 1 km at the equator)\
+  \ over eight layers to 2.3 m depth for land surface modeling.Described in https://doi.org/10.1002/2013MS000293\
+  \ Shangguan W. \_et al. \_(2014). A global soil data set for earth system modeling.\
+  \ Journal of Advances in Modeling Earth Systems 6(1) 249\xE2\u20AC\u201C263"
+contact:
+  email: ''
+  name: ''
+  organisation: ''
+identifier: LandAtmosphereInteractionResearchGroupatSunYatsenUniversity
+license: ''
+name: !!python/object/new:lxml.etree._ElementUnicodeResult
+- Land-Atmosphere Interaction Research Group at Sun Yat-sen University
+url: http://globalchange.bnu.edu.cn/research/data

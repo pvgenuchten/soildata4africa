@@ -1,0 +1,14 @@
+abstract: "** Esta es una version beta esta\xA1 planificado trasladarlo http://sislac.org\
+  \ Offline on 31-May-2022 link is kept here in case it re-activates Una iniciativa\
+  \ regional impulsada y financiada por la Alianza Mundial por el Suelo (FAO) e implementada\
+  \ en alianza estrata\xA9gica con CIAT EMBRAPA y 20 instituciones nacionales. Su\
+  \ objetivo es el esarrollo de un sistema moderno de informacion de suelos."
+contact:
+  email: ''
+  name: ''
+  organisation: ''
+identifier: WelcomeSISLAC
+license: ''
+name: !!python/object/new:lxml.etree._ElementUnicodeResult
+- "Welcome\n | SISLAC"
+url: http://54.229.242.119/sislac/en

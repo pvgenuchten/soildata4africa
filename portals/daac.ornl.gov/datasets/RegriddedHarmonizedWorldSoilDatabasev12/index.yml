@@ -1,0 +1,14 @@
+abstract: This data set describes select global soil parameters from the Harmonized
+  World Soil Database (HWSD) v1.2 including additional calculated parameters such
+  as area weighted soil organic carbon (kg C per m2) as high resolution NetCDF files.
+  These data were re-gridded and upscaled to 0.05-degree spatial resolution from the
+  Harmonized World Soil Database v1.2 and provided as a set of 27 NetCDF files.
+contact:
+  email: ''
+  name: ''
+  organisation: ''
+identifier: RegriddedHarmonizedWorldSoilDatabasev12
+license: ''
+name: !!python/object/new:lxml.etree._ElementUnicodeResult
+- Regridded Harmonized World Soil Database v1.2
+url: https://daac.ornl.gov/SOILS/guides/HWSD.html

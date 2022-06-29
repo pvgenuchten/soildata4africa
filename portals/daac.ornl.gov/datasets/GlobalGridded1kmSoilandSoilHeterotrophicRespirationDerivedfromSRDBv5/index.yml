@@ -1,0 +1,17 @@
+abstract: '[G]lobal gridded estimates of annual soil respiration (Rs) and soil heterotrophic
+  respiration (Rh) and associated uncertainties at 1 km resolution... Soil respiration
+  (Rs) is the efflux of CO2 from soils to atmosphere as a result of autotrophic and
+  heterotrophic processes belowground and Rs is a large component of the global carbon
+  cycle. Soil heterotrophic respiration (Rh) describes CO2 efflux by decomposition
+  of soil organic matter by microorganisms but excludes autotrophic respiration by
+  plant roots.'
+contact:
+  email: ''
+  name: ''
+  organisation: ''
+identifier: GlobalGridded1kmSoilandSoilHeterotrophicRespirationDerivedfromSRDBv5
+license: ''
+name: !!python/object/new:lxml.etree._ElementUnicodeResult
+- "\r\n      \r\n      Global Gridded 1-km Soil and Soil Heterotrophic Respiration\
+  \ Derived from SRDB v5\r\n      \r\n    "
+url: https://daac.ornl.gov/CMS/guides/SoilResp_HeterotrophicResp.html

@@ -1,0 +1,15 @@
+abstract: 'Gridded (800x800 m) maps of selected soil properties throughout the continental
+  United States interactive and downloadable as GeoTIFF. Maps were created by aggregating
+  SSURGO back-filled with NATSGO where SSURGO is not available. Chemical physical
+  land use soil colour. Some properties directly useful for land use: land capability
+  Kw hydrologic group soil thickness wind erodibility. Also from the California Soil
+  Resource Lab.'
+contact:
+  email: ''
+  name: ''
+  organisation: ''
+identifier: SoilPropertiesCaliforniaSoilResourceLab
+license: ''
+name: !!python/object/new:lxml.etree._ElementUnicodeResult
+- Soil Properties | California Soil Resource Lab
+url: https://casoilresource.lawr.ucdavis.edu/soil-properties/

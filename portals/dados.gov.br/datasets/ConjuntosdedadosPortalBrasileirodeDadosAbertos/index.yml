@@ -1,0 +1,12 @@
+abstract: "del https://dados.gov.br/ Portal Brasileiro de Dados Abertos \_Archivos\
+  \ Shapefile KML GeoJSON CSV de pontos de amostragem mapas de solos das folhas escala\
+  \ 1:250.000; solos do Brasil 1:5M solos da Amaza\xB4nia Legal 1:250.000"
+contact:
+  email: ''
+  name: ''
+  organisation: ''
+identifier: ConjuntosdedadosPortalBrasileirodeDadosAbertos
+license: ''
+name: !!python/object/new:lxml.etree._ElementUnicodeResult
+- Conjuntos de dados - Portal Brasileiro de Dados Abertos
+url: https://dados.gov.br/dataset?q=solos

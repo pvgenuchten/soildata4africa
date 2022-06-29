@@ -1,4 +1,8 @@
-abstract: null
+abstract: Another interface to SSURGO and NATSGO maps from the California Soil Resource
+  Lab. Uses either Google Maps or Google Earth. The latter is an incredible interface
+  showing polygons at appropriate display scale click-through for map unit description
+  with profile diagrams block diagrams of typical landscape positions; also shows
+  locations of typifying pedons. Also available as iPhone or Android apps.
 contact:
   email: ''
   name: ''

@@ -1,0 +1,11 @@
+abstract: "Les Ra\xA9fa\xA9rentiels Ra\xA9gionaux Pa\xA9dologiques (RRP) sont une\
+  \ repra\xA9sentation des sols a\_ l\xE2\u20AC\u2122a\xA9chelle du 1:250 000"
+contact:
+  email: ''
+  name: ''
+  organisation: ''
+identifier: "GisSolCartedessolssurleG\xE9oportail"
+license: ''
+name: !!python/object/new:lxml.etree._ElementUnicodeResult
+- "Gis Sol \xBB Carte des sols sur le G\xE9oportail"
+url: http://www.gissol.fr/donnees/carte-sur-le-geoportail-4789

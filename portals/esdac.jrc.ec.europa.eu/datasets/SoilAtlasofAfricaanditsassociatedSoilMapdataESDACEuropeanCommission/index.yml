@@ -1,0 +1,17 @@
+abstract: A polygon map at design scale 1:3M as developed in the FAO/JRC Soil Atlas
+  of Africa showing the dominant WRB Reference Soil Group and associated qualifiers.
+  Download by request; the PDF of the Atlas is also available for download. The map
+  has been derived from the Harmonized World Soil Database (HWSD). The original data
+  were updated and modified according to the World Reference Base for Soil Resources
+  classification system. The corrections concerned boundary issues areas with no information
+  soil patterns river and drainage networks and dynamic features such as sand dunes
+  water bodies and coastlines
+contact:
+  email: ''
+  name: ''
+  organisation: ''
+identifier: SoilAtlasofAfricaanditsassociatedSoilMapdataESDACEuropeanCommission
+license: ''
+name: !!python/object/new:lxml.etree._ElementUnicodeResult
+- Soil Atlas of Africa and its associated Soil Map (data) - ESDAC - European Commission
+url: https://esdac.jrc.ec.europa.eu/content/soil-map-soil-atlas-africa

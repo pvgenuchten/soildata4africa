@@ -1,0 +1,12 @@
+abstract: "Bodenkundliche Kennwerte Bodenfunktionen Radioaktivita\xA4t im Boden Schwermetalle\
+  \ im Boden. Texte Abbildungen Daten und Karten werden zum Download in verschiedenen\
+  \ Formaten angeboten."
+contact:
+  email: ''
+  name: ''
+  organisation: ''
+identifier: BodenBerlinde
+license: ''
+name: !!python/object/new:lxml.etree._ElementUnicodeResult
+- Boden - Berlin.de
+url: https://www.berlin.de/umweltatlas/boden/

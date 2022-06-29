@@ -1,0 +1,10 @@
+abstract: Primary and derived data covering Europe.
+contact:
+  email: ''
+  name: ''
+  organisation: ''
+identifier: ESDACEuropeanCommission
+license: ''
+name: !!python/object/new:lxml.etree._ElementUnicodeResult
+- ESDAC - European Commission
+url: https://eusoils.jrc.ec.europa.eu/resource-type/datasets

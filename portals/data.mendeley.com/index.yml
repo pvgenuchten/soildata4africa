@@ -1,4 +1,7 @@
-abstract: null
+abstract: open quantitative and adaptable digital soil map and database for Nigeria
+  Vector GIS coverage design scale of 1:650k explained in https://doi.org/10.1016/j.dib.2020.105941.
+  Soil Taxonomy Great Group surface textural class drainage class general crop suitability
+  for the dominant soil
 contact:
   email: ''
   name: ''

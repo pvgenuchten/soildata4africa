@@ -1,4 +1,5 @@
-abstract: null
+abstract: Collects datasets from World Data Centres and others. ISRIC is a contributor.
+  Querying for Soil map returns > 2600 datasets.
 contact:
   email: ''
   name: ''

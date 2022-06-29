@@ -1,0 +1,12 @@
+abstract: national datasets including Austria Belgium Croatia Czech Republic Demark
+  England &amp; Wales (but Scotland is listed under a region of the UK see below)
+  Finland France Germany Italy Malta
+contact:
+  email: ''
+  name: ''
+  organisation: ''
+identifier: NationalDataESDACEuropeanCommission
+license: ''
+name: !!python/object/new:lxml.etree._ElementUnicodeResult
+- National Data - ESDAC - European Commission
+url: https://esdac.jrc.ec.europa.eu/content/national-data

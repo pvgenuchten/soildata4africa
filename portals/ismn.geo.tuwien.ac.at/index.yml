@@ -1,4 +1,7 @@
-abstract: null
+abstract: Soil moisture which is the water stored in the upper soil layer is a crucial
+  parameter for a large number of applications including numerical weather prediction
+  flood forecasting agricultural drought assessment water resources management greenhouse
+  gas accounting civil protection and epidemiological modeling of water borne diseases.
 contact:
   email: ''
   name: ''
@@ -6,4 +9,4 @@ contact:
 identifier: ismn.geo.tuwien.ac.at
 license: ''
 name: International Soil Moisture Network
-url: https://ismn.geo.tuwien.ac.at/en/
+url: http://ismn.geo.tuwien.ac.at/

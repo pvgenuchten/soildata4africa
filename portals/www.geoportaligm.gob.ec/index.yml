@@ -1,4 +1,6 @@
-abstract: null
+abstract: "Al nivel nacional y cantonal ver el tema geopedologa\xADa. Mapas y bases\
+  \ de datos para descargar. Tambia\xA9n otros temas (capacidad de uso sistemas productivos\
+  \ ...)"
 contact:
   email: ''
   name: ''
@@ -6,4 +8,4 @@ contact:
 identifier: www.geoportaligm.gob.ec
 license: ''
 name: Descargas de informacion de los proyectos IEE (Instituto Espacial Ecuatoriano)
-url: https://www.geoportaligm.gob.ec/geoinformacion/index-alt7.html
+url: http://www.geoportaligm.gob.ec/geoinformacion/index-alt7.html

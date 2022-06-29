@@ -1,0 +1,14 @@
+abstract: "Compilacion del https://www.argentina.gob.ar/inta Instituto Nacional de\
+  \ Tecnologa\xADa Agropecuaria \_(INTA). Inventario del recurso suelo del paa\xAD\
+  s proporciona una clasificacion de los suelos y evaluacion de las tierras. Escala\
+  \ gra\xA1fica 1:500.000 y las provincias de Neuquan Mendoza San Juan La Rioja Chubut\
+  \ y Santa Cruz esta\xA1n a escala 1:1.000.000. Formato ESRI Shapefile."
+contact:
+  email: ''
+  name: ''
+  organisation: ''
+identifier: "SuelosdelaRep\xFAblicaArgentinaGeoINTA"
+license: ''
+name: !!python/object/new:lxml.etree._ElementUnicodeResult
+- "Suelos de la Rep\xFAblica Argentina | GeoINTA"
+url: http://www.geointa.inta.gob.ar/2013/05/26/suelos-de-la-republica-argentina/

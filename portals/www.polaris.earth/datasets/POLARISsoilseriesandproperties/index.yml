@@ -1,0 +1,15 @@
+abstract: "Chaney \_et al. constructed using available high-resolution geospatial\
+  \ environmental data and a state-of-the-art machine learning algorithm (DSMART-HPC)\
+  \ to remap the Soil Survey Geographic (SSURGO) database. Fills gaps removes discontinuities\
+  \ at survey area edges gives probabilities of each class; (2) PROPERTIES: 30-meter\
+  \ probabilistic maps of soil properties of the contiguous United States. Described\
+  \ in http://dx.doi.org/10.1029/2018WR022797 Water Resources Research 55:2916 \_\
+  Chaney \_et al. \_Infers properties from series."
+contact:
+  email: ''
+  name: ''
+  organisation: ''
+identifier: POLARISsoilseriesandproperties
+license: ''
+name: POLARIS soil series and properties
+url: https://www.polaris.earth

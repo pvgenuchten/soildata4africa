@@ -1,0 +1,19 @@
+abstract: "https://www.nabodat.ch/index.php/fr/ NABODAT: le systa\xA8me national d\xE2\
+  \u20AC\u2122information pa\xA9dologique (Suisse)/ Das nationale Bodeninformationssystem\
+  \ NABODAT fa\xBChrt Daten zur Qualita\xA4t von Ba\xB6den in der Schweiz zusammen\
+  \ harmonisiert diese und verwaltet sie. Die Bodendaten stammen aus Bodenkartierungen\
+  \ dem Vollzug und aus Monitoringprogrammen von Bund und Kantonen. Le Systa\xA8me\
+  \ national d\xE2\u20AC\u2122information pa\xA9dologique NABODAT regroupe harmonise\
+  \ et ga\xA8re des donna\xA9es sur la qualita\xA9 des sols en Suisse. Ces informations\
+  \ proviennent de cartographies des sols de l\xE2\u20AC\u2122exa\xA9cution de la\
+  \ la\xA9gislation et de programmes de monitoring de la Confa\xA9da\xA9ration et\
+  \ des cantons."
+contact:
+  email: ''
+  name: ''
+  organisation: ''
+identifier: StartseiteNABODAT
+license: ''
+name: !!python/object/new:lxml.etree._ElementUnicodeResult
+- Startseite - NABODAT
+url: https://www.nabodat.ch/index.php/de/

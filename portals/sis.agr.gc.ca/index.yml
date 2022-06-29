@@ -1,4 +1,6 @@
-abstract: null
+abstract: Includes Soil Landscapes of Canada (SLC) for the entire territory at 1:1'000
+  000 and detailed soil surveys (1:20 000 to 1:250 000) for most of the agricultural
+  area.
 contact:
   email: ''
   name: ''
@@ -6,4 +8,4 @@ contact:
 identifier: sis.agr.gc.ca
 license: ''
 name: Canadian Soil Information Service
-url: https://sis.agr.gc.ca/cansis/
+url: http://sis.agr.gc.ca/cansis/

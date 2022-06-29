@@ -8,7 +8,7 @@ from lxml import html
 source = "."
 target = "./portals"
 
-def create_initial(path,id,label,desc,url):
+def create_initial(path,id,label,desc,author,url):
     cnf = {
         "identifier": id,
         "url": url,
@@ -16,10 +16,12 @@ def create_initial(path,id,label,desc,url):
         "abstract": desc,
         "contact": {
             "name": "",
-            "organisation": "",
+            "organisation": author,
             "email": ""},
         "license": ""
     }
+    if 'doi' in url:
+        cnf['datasetidentifier'] = url
     try:
         with open(path, 'w') as f:
             yaml.dump(cnf, f)
@@ -37,11 +39,13 @@ for index, row in myPortals.iterrows():
     except Exception as e:
         print('request to ' + row['url'] + ' failed');
         continue
-    
+    if resp.status_code > 299:
+        print('request to ' + row['url'] + ' has status code: ' + str(resp.status_code));
+        continue
+
     # then check resp.url
     # get domain as identifier for the catalogue (if multiple catalogues live in a domain, they are merged)
     domain = resp.url.split('//')[1].split('/')[0]
-    print(domain)
 
     # check if domain-folder exists, else create it
     if os.path.isdir(target+os.sep+domain):
@@ -51,52 +55,59 @@ for index, row in myPortals.iterrows():
             with open(os.path.join(target+os.sep+domain+os.sep, 'index.yml')) as f:
                 portalMD = yaml.load(f, Loader=SafeLoader)
         except FileNotFoundError:  # filenotfound, create it
-            create_initial(os.path.join(target+os.sep+domain+os.sep, 'index.yml'),domain,row.get('label'),row.get('desc'),resp.url)
+            create_initial(os.path.join(target+os.sep+domain+os.sep, 'index.yml'),domain,row.get('label'),row.get('description'),"",row['url'])
         except Exception as e:
             print('file '+ os.path.join(target+os.sep+domain+os.sep, 'index.yml') +' can not be read, check it; '+ e)
     else:
          os.makedirs(target+os.sep+domain)
-         create_initial(os.path.join(target+os.sep+domain+os.sep, 'index.yml'),domain,row.get('label'),row.get('desc'),resp.url)
+         create_initial(os.path.join(target+os.sep+domain+os.sep, 'index.yml'),domain,row.get('label'),row.get('description'),"",row['url'])
 
     ## FETCH PORTAL METADATA
     #try:
     abs = ""
     content_type = resp.headers['content-type'].split(';')[0]
-    print(content_type)
         # if website, check title/abstract, schema-org or similar
     if (content_type == 'text/html'):
-        print('html')
         tree = html.fromstring(resp.content)
-        ttl = tree.xpath('//title[0]/text()')
+        ttl = tree.xpath('//title/text()')
+        if len(ttl) == 0:
+            ttl = row.get('label')
+        else:
+            ttl = ttl[0]
         abs = tree.xpath('//meta[@name="description"]/@content/text()')
         if len(abs) == 0:
             abs = tree.xpath('//meta[@name="og:description"]/@content/text()')
         if len(abs) > 0:
             abs=abs[0]
         else:
-            abs=""
+            abs=row.get('description')
+        author = tree.xpath('//meta[@name="author"]/@content/text()')
+        if len(author) > 0:
+            author = author[0]
+        else:
+            author = ""
         schemaorg = tree.xpath('//script[@type="application/ld+json"]/text()')
         if len(schemaorg) > 0:
             schemaorg = json.loads(schemaorg[0])
             ttl = schemaorg.get('name',ttl)
             abs = schemaorg.get('description',abs)
-        print(abs) 
+        print(ttl, abs, author) 
     elif (content_type == 'application/json'):    # if API, identify the type of API, if it is OPENAPI, CSW, OAI-PMH, Dataverse, CKAN, WMS/WFS fetch metadata from conventions
         print('json')
         # see if it is openapi, json-ld, odata, ...
-        ttl=resp.url.split('/')[-1].split('?')[0].split('#')[0]
+        ttl=resp.url.split('/index')[0].split('?')[0].split('#')[0].strip("/").split('/')[-1].split('.')[0]
         if not ttl:
-            ttl = domain
+            ttl = row.get('label')
     elif (content_type in ['text/xml','application/xml']):
         print('xml')
         # see if it is wms/wfs/iso/wcs/csw etc
-        ttl=resp.url.split('/')[-1].split('?')[0].split('#')[0]
+        ttl=resp.url.split('/index')[0].split('?')[0].split('#')[0].strip("/").split('/')[-1].split('.')[0]
         if not ttl:
-            ttl = domain
+            ttl = row.get('label')
     else:
-        ttl=resp.url.split('/')[-1].split('?')[0].split('#')[0]
+        ttl=resp.url.split('/index')[0].split('?')[0].split('#')[0].strip("/").split('/')[-1].split('.')[0]
         if not ttl:
-            ttl = domain
+            ttl = row.get('label')
         print('other: '+ content_type)
     
     # create safe folder name (or use identifier, if we know it)
@@ -112,11 +123,7 @@ for index, row in myPortals.iterrows():
             with open(os.path.join(fldr+os.sep, 'index.yml'), 'w') as f:
                 yaml.dump(schemaorg, f)
         else:
-            create_initial(os.path.join(fldr+os.sep, 'index.yml'),fldrnm,ttl,abs,resp.url)
-
-
-
-        # print(resp.text) # Printing response
+            create_initial(os.path.join(fldr+os.sep, 'index.yml'),fldrnm,ttl,abs,author,row['url'])
 
         # see if the row includes a doi, if so fetch the doi metadata (datacite)
 

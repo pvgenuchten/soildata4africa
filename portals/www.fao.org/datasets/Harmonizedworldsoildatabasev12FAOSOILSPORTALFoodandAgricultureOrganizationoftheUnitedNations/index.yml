@@ -1,0 +1,21 @@
+abstract: from FAO originally developed by http://www.iiasa.ac.at/ IIASA with contributions
+  from many partners notably ISRIC and the Chinese Academy of Sciences. The Harmonized
+  World Soil Database is a 30 arc-second raster database with over 15000 different
+  soil mapping units that combines existing regional and national updates of soil
+  information worldwide (SOTER ESD Soil Map of China WISE) with the information contained
+  within the 1:5 000 000 scale FAO-UNESCO Soil Map of the World (FAO 1971--1981).
+  The resulting raster database consists of 21600 rows and 43200 columns which are
+  linked to harmonized soil property data. The use of a standardized structure allows
+  for the linkage of the attribute data with the raster map to display or query the
+  composition in terms of soil units and the characterization of selected soil parameters
+  (organic Carbon pH water storage capacity soil depth
+contact:
+  email: ''
+  name: ''
+  organisation: ''
+identifier: Harmonizedworldsoildatabasev12FAOSOILSPORTALFoodandAgricultureOrganizationoftheUnitedNations
+license: ''
+name: !!python/object/new:lxml.etree._ElementUnicodeResult
+- "Harmonized world soil database v1.2\_|\_FAO SOILS PORTAL\_|\_Food and Agriculture\
+  \ Organization of the United Nations"
+url: https://www.fao.org/soils-portal/soil-survey/soil-maps-and-databases/harmonized-world-soil-database-v12/en/

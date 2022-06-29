@@ -1,0 +1,11 @@
+abstract: Digitized from 1:2000000 scale paper maps; includes a reliability map and
+  legend
+contact:
+  email: ''
+  name: ''
+  organisation: ''
+identifier: ASRISAtlasofAustralianSoils
+license: ''
+name: !!python/object/new:lxml.etree._ElementUnicodeResult
+- A S R I S - Atlas of Australian Soils
+url: http://www.asris.csiro.au/themes/Atlas.html

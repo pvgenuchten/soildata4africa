@@ -1,0 +1,10 @@
+abstract: Available in many GIS formats as a WMS layer and as images.
+contact:
+  email: ''
+  name: ''
+  organisation: ''
+identifier: FAOMapCatalog
+license: ''
+name: !!python/object/new:lxml.etree._ElementUnicodeResult
+- FAO Map Catalog
+url: https://data.apps.fao.org/map/catalog/srv/eng/catalog.search#/metadata/446ed430-8383-11db-b9b2-000d939bc5d8

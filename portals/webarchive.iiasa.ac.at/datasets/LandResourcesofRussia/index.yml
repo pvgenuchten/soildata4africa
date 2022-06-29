@@ -1,0 +1,11 @@
+abstract: 1:2.5MHosted at http://www.iiasa.ac.at IIASA. GIS coverages with linked
+  database of soil types and properties. Many other coverages on the same CD-ROM.
+contact:
+  email: ''
+  name: ''
+  organisation: ''
+identifier: LandResourcesofRussia
+license: ''
+name: !!python/object/new:lxml.etree._ElementUnicodeResult
+- Land Resources of Russia
+url: http://webarchive.iiasa.ac.at/Research/FOR/russia_cd/download.htm

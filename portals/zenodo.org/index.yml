@@ -1,9 +1,15 @@
-abstract: null
+abstract: '[A]n open-source archive of [georeferenced] soil data that include reported
+  measurements from bulk soils distinct soil carbon pools isolated in the laboratory
+  by a variety of soil fractionation methods samples of soil gas or water collected
+  interstitially from within an intact soil profile CO2 gas isolated from laboratory
+  soil incubations and fluxes collected in situ from a soil profile. The database
+  is explained in https://doi.org/10.5194/essd-12-61-2020'
 contact:
   email: ''
   name: ''
   organisation: ''
+datasetidentifier: https://doi.org/10.5281/zenodo.2613911
 identifier: zenodo.org
 license: ''
 name: International Soil Radiocarbon Database (ISRaD) version 1.0
-url: https://zenodo.org/record/2613911
+url: https://doi.org/10.5281/zenodo.2613911

@@ -1,0 +1,18 @@
+abstract: A seamless version of https://www.nrcs.usda.gov/wps/portal/nrcs/detail/soils/survey/?cid=nrcs142p2_053627
+  SSURGO (detailed soil map) which can be reclassified with properties or interpretations.
+  Despite the name it is a vector coverage as ESRI geodatabases not gridded but can
+  easily be rasterized. No map unit disaggregation but properties are estimated from
+  map unit composition. See POLARIS (below) for a disaggregated (more detailed harmonized)
+  product. Files can be directly accessed at https://nrcs.app.box.com/v/soils the
+  NRCS Box repository
+contact:
+  email: ''
+  name: ''
+  organisation: ''
+identifier: DescriptionofGriddedSoilSurveyGeographicgSSURGODatabaseNRCSSoils
+license: ''
+name: !!python/object/new:lxml.etree._ElementUnicodeResult
+- "\r\n\t\t\t\r\n\t\t\t \r\n\t\t\t\r\n\t\t\t\r\n                \r\n            Description\
+  \ of Gridded Soil Survey Geographic (gSSURGO) Database | NRCS Soils\r\n        \
+  \    \r\n\r\n\r\n\t\t\t\t\r\n"
+url: https://www.nrcs.usda.gov/wps/portal/nrcs/detail/soils/survey/geo/?cid=nrcs142p2_053628

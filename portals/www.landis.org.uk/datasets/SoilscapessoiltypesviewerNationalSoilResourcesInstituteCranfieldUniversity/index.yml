@@ -1,0 +1,13 @@
+abstract: Soilscapes is a 1:250000 scale simplified soils dataset covering England
+  and Wales. It was created from the more detailed National Soil Map (NATMAPvector)
+  with the purpose of effectively communicating a general understanding of the variations
+  which occur between soil types and how soils affect the environment.
+contact:
+  email: ''
+  name: ''
+  organisation: ''
+identifier: SoilscapessoiltypesviewerNationalSoilResourcesInstituteCranfieldUniversity
+license: ''
+name: !!python/object/new:lxml.etree._ElementUnicodeResult
+- Soilscapes soil types viewer - National Soil Resources Institute. Cranfield University
+url: http://www.landis.org.uk/soilscapes/index.cfm

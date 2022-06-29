@@ -1,4 +1,8 @@
-abstract: null
+abstract: '[A] database of soil water characteristics enabling estimation of Plant
+  Available Water Capacity for individual soils and crops. It covers many cropping
+  regions of Australia and is regularly updated. It is designed for use in simulation
+  modelling and agronomic practice.Soil properties applicable to the https://www.apsim.info
+  APSIM Agricultural Systems Modelling and Simulation computer program.'
 contact:
   email: ''
   name: ''

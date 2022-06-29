@@ -1,0 +1,13 @@
+abstract: 'Gridded maps at 30 arc-seconds of actual evapo-transpiration and soil water
+  deficit: annual monthly Priestly-Taylor alpha; documentation. Primary inputs are
+  WorldClim and Global-PET. Reference: Trabucco A. and Zomer R.J. (2010): Global Soil
+  Water Balance Geospatial Database. CGIAR Consortium for Spatial Information.'
+contact:
+  email: ''
+  name: ''
+  organisation: ''
+identifier: PrivateSite
+license: ''
+name: !!python/object/new:lxml.etree._ElementUnicodeResult
+- Private Site
+url: https://cgiarcsi.community/data/global-high-resolution-soil-water-balance/

@@ -1,0 +1,15 @@
+abstract: STATSGO2 is a broad-based inventory of soils and non-soil areas that occur
+  in a repeatable pattern on the landscape and that can be cartographically shown
+  at the scale mapped of 1:250000 in the continental U.S. Hawaii Puerto Rico and the
+  Virgin Islands and 1:10000 in Alaska. Files can be directly accessed at https://nrcs.app.box.com/v/soils
+  the NRCS Box repository
+contact:
+  email: ''
+  name: ''
+  organisation: ''
+identifier: DescriptionofSTATSGO2DatabaseNRCSSoils
+license: ''
+name: !!python/object/new:lxml.etree._ElementUnicodeResult
+- "\r\n\t\t\t\r\n\t\t\t \r\n\t\t\t\r\n\t\t\t\r\n                \r\n            Description\
+  \ of STATSGO2 Database | NRCS Soils\r\n            \r\n\r\n\r\n\t\t\t\t\r\n"
+url: https://www.nrcs.usda.gov/wps/portal/nrcs/detail/soils/survey/geo/?cid=nrcs142p2_053629

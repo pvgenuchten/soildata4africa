@@ -1,0 +1,14 @@
+abstract: the digital soil map for New ZealandS-map is the new national soils database.
+  When completed it will provide a seamless digital soil map coverage for New Zealand.
+  S-map is designed to be applied at any scale from farm to region to nation.Other
+  soil survey activities explained at https://soils.landcareresearch.co.nz/topics/soil-data/soil-data/
+  Manaaki Whenua Soil Data and Maps
+contact:
+  email: ''
+  name: ''
+  organisation: ''
+identifier: SMapOnlineManaakiWhenuaLandcareResearch
+license: ''
+name: !!python/object/new:lxml.etree._ElementUnicodeResult
+- S-Map Online | Manaaki Whenua - Landcare Research
+url: https://smap.landcareresearch.co.nz:443/

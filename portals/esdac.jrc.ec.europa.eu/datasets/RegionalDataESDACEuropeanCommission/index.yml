@@ -1,0 +1,12 @@
+abstract: "sub-national (for now) regions such as Flanders (B) Wallonia (B) Bavaria\
+  \ Niedersachsen NRW Sachsen-Anhalt Schleswig-Holstein (D) Rha\xB4ne-Alpes (F) Abruzzo\
+  \ Basilicata Calabria Emilia-Romagna"
+contact:
+  email: ''
+  name: ''
+  organisation: ''
+identifier: RegionalDataESDACEuropeanCommission
+license: ''
+name: !!python/object/new:lxml.etree._ElementUnicodeResult
+- Regional Data - ESDAC - European Commission
+url: https://esdac.jrc.ec.europa.eu/content/regional-data

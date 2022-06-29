@@ -1,0 +1,13 @@
+abstract: Data collected by Dr. James G. Bockheim and his colleagues from 1975 through
+  1987. Data include site information air and soil temperature measurements soil profile
+  features and surface boulder weathering features for 482 sites in the McMurdo Sound
+  area of Antarctica.
+contact:
+  email: ''
+  name: ''
+  organisation: ''
+identifier: NationalSnowandIceDataCenter
+license: ''
+name: !!python/object/new:lxml.etree._ElementUnicodeResult
+- '| National Snow and Ice Data Center'
+url: http://nsidc.org/data/ggd221

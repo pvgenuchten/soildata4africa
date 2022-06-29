@@ -1,0 +1,17 @@
+abstract: "of the (USA) Natural Resources Conservation Service (NRCS). To download\
+  \ digital SGDB for a user-defined area click on the link Order by... and once the\
+  \ area is selected specify SSURGO 2.2 (semi-detailed source scale 1:12 000 to 1:25\
+  \ 000) and/or STATSGO2 (1:250 000 generalized from SSURGO). \_ \_To download digital\
+  \ SGDB for a State click on the link Order by... and then by State. Once the State\
+  \ is selected scroll down and Gridded Soil Survey Geographic (gSSURGO) by State.\
+  \ This includes the gSSURGO rasters (see below) but also a seamless polygon map\
+  \ of all the SSURGO 2.2 polygons with attribute tables in ESRI geodatabases format."
+contact:
+  email: ''
+  name: ''
+  organisation: ''
+identifier: USDANRCSGeospatialDataGatewayHome
+license: ''
+name: !!python/object/new:lxml.etree._ElementUnicodeResult
+- USDA:NRCS:Geospatial Data Gateway:Home
+url: https://gdg.sc.egov.usda.gov

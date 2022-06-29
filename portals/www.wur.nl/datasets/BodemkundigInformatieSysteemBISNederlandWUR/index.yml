@@ -1,0 +1,19 @@
+abstract: "(1:50k)Bodemgegevens staan in de top vijf van gegevens die het meest gebruikt\
+  \ worden door de overheid. Bodemkundig Informatie System (BIS) Nederland biedt overheden\
+  \ en bedrijven toegang tot bodemgegevens en scenario\xE2\u20AC\u2122s voor duurzaam\
+  \ bodem- en grondwatergebruik. Hiermee kunnen de effecten van maatregelen op de\
+  \ bodem en het grondwater worden doorgerekend. Het systeem bevat up-to-date informatie\
+  \ over de Nederlandse bodem die op systematische wijze is verzameld en bewerkt.\
+  \ Now also available as WMS and WFS soon as downloadable GIS files and soon thereafter\
+  \ the field data points from https://www.pdok.nl/. Search for Bodem. As of 06-July-2017\
+  \ only WMS and WFS with map unit names and (for WFS) up to three soil types per\
+  \ map unit; no linked attribute tables."
+contact:
+  email: ''
+  name: ''
+  organisation: ''
+identifier: BodemkundigInformatieSysteemBISNederlandWUR
+license: ''
+name: !!python/object/new:lxml.etree._ElementUnicodeResult
+- Bodemkundig Informatie Systeem (BIS) Nederland - WUR
+url: https://www.wur.nl/nl/Onderzoek-Resultaten/Onderzoeksinstituten/Environmental-Research/Faciliteiten-tools/Bodemkundig-Informatie-Systeem-BIS-Nederland.htm

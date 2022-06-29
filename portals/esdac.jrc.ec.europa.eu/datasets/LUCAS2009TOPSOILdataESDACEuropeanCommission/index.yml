@@ -1,0 +1,15 @@
+abstract: "19967 geo-referenced samples distributed in 25 countries; topsoils; analysed\
+  \ for the percentage of coarse fragments particle size distribution (% claysilt\
+  \ and sand content) pH (in CaCl2 and H2O) organic carbon (g/kg) carbonate content\
+  \ (g/kg) phosphorous content (mg/kg) total nitrogen content (g/kg) extractable potassium\
+  \ content (mg/kg) \_cation exchange capacity (cmol(+)/kg) and multispectral properties.\
+  \ \_global"
+contact:
+  email: ''
+  name: ''
+  organisation: ''
+identifier: LUCAS2009TOPSOILdataESDACEuropeanCommission
+license: ''
+name: !!python/object/new:lxml.etree._ElementUnicodeResult
+- LUCAS 2009 TOPSOIL data - ESDAC - European Commission
+url: https://esdac.jrc.ec.europa.eu/content/lucas-2009-topsoil-data

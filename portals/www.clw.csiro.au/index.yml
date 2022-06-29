@@ -1,4 +1,8 @@
-abstract: null
+abstract: "This is the Australian implementation of the https://www.isric.org/projects/globalsoilmapnet\
+  \ GlobalSoilMap.net \_specification i.e. at 3 arc-second (approx. 100 m) resolution.\
+  \ It is available for viewing on-line via Google Earth or for download. In addition\
+  \ to the soil properties it also provides many landscape attributes e.g. the Prescott\
+  \ Index measure of water balance and solar radiation."
 contact:
   email: ''
   name: ''

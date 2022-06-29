@@ -1,0 +1,12 @@
+abstract: "e-SOTER is a methodology for producing SOil and TERrain bases according\
+  \ to a \_procedures manual. The databases are ESRI shapefiles at a nominal 1:1M\
+  \ scale."
+contact:
+  email: ''
+  name: ''
+  organisation: ''
+identifier: Productsesoternet
+license: ''
+name: !!python/object/new:lxml.etree._ElementUnicodeResult
+- Products | esoter.net
+url: https://www.esoter.net/products

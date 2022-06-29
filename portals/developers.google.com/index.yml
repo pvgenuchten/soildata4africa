@@ -1,4 +1,6 @@
-abstract: null
+abstract: Includes properties from Open Land Map the Soil and Landscape Grid of Australia
+  the NASA-USDA Enhanced SMAP Global Soil Moisture Data. More datasets are regularly
+  added.
 contact:
   email: ''
   name: ''

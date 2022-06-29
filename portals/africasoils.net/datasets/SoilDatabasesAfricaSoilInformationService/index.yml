@@ -1,0 +1,15 @@
+abstract: The Africa Soil Information Service (AfSIS) is developing continent-wide
+  digital soil maps for sub-Saharan Africa using new types of soil analysis and statistical
+  methods and conducting agronomic field trials in selected sentinel sites. These
+  efforts include the compilation and rescue of legacy soil profile data new data
+  collection and analysis and system development for large-scale soil mapping using
+  remote sensing imagery and crowdsourced ground observations.
+contact:
+  email: ''
+  name: ''
+  organisation: ''
+identifier: SoilDatabasesAfricaSoilInformationService
+license: ''
+name: !!python/object/new:lxml.etree._ElementUnicodeResult
+- "Soil Databases  \u2013  Africa Soil Information Service"
+url: http://africasoils.net/services/data/soil-databases/

@@ -1,0 +1,13 @@
+abstract: Europe-wide soil profile databases developed for various modelling projects
+  (e.g. pesticide fate) SPADE-1 are direct measurements; SPADE-2 are inferred and
+  harmonized for each Soil Typological Unit (STU) of the legend of the 1:10000 Soil
+  Geographic Database of Europe (SGDBE).
+contact:
+  email: ''
+  name: ''
+  organisation: ''
+identifier: SPADEMESDACEuropeanCommission
+license: ''
+name: !!python/object/new:lxml.etree._ElementUnicodeResult
+- SPADE/M - ESDAC - European Commission
+url: https://esdac.jrc.ec.europa.eu/content/spadem

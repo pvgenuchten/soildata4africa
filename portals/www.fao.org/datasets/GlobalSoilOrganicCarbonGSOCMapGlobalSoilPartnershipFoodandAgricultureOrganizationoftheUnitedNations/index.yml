@@ -1,0 +1,13 @@
+abstract: A mosaic of national SOC maps developed as 1 km soil grids covering a depth
+  of 0-30 cm following standard digital soil mapping procedures. Available for download
+  or as an interactive map viewer.
+contact:
+  email: ''
+  name: ''
+  organisation: ''
+identifier: GlobalSoilOrganicCarbonGSOCMapGlobalSoilPartnershipFoodandAgricultureOrganizationoftheUnitedNations
+license: ''
+name: !!python/object/new:lxml.etree._ElementUnicodeResult
+- "Global Soil Organic Carbon (GSOC) Map\_|\_Global Soil Partnership\_|\_Food and\
+  \ Agriculture Organization of the United Nations"
+url: https://www.fao.org/global-soil-partnership/pillars-action/4-information-and-data/global-soil-organic-carbon-gsoc-map/en/

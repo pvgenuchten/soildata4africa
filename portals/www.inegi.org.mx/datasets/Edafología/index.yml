@@ -1,0 +1,14 @@
+abstract: "Escala 1:250 000 Informacion geoespacial que muestra la distribucion de\
+  \ los principales tipos de suelo en el territorio nacional asa\xAD como los atributos\
+  \ fa\xADsicos qua\xADmicos y limitantes fa\xADsicas y qua\xADmicas presentes de\
+  \ acuerdo con la base referencial mundial del recurso suelo de la FAO (WRB por sus\
+  \ siglas en ingls)"
+contact:
+  email: ''
+  name: ''
+  organisation: ''
+identifier: "Edafolog\xEDa"
+license: ''
+name: !!python/object/new:lxml.etree._ElementUnicodeResult
+- "Edafolog\xEDa"
+url: https://www.inegi.org.mx/temas/edafologia/

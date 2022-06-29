@@ -1,0 +1,18 @@
+abstract: 1:1M from the USDA/NRCS.A concept map based on principal soil-forming factors
+  without new ground control. [P]olygons were drawn on a 1:1 million Operational Navigation
+  Chart using contour lines to demarcate areas. The soil moisture and temperature
+  regimes were estimated using a water-balance model and climatic data for 33 stations.
+  These moisture and temperature zones were demarcated on the topographic maps. Within
+  each climatic zone prominent landforms were demarcated. Using the few published
+  soil information and information from neighboring countries soil associations were
+  allocated to the polygons
+contact:
+  email: ''
+  name: ''
+  organisation: ''
+identifier: SoilRegionsMapofAfghanistanNRCSSoils
+license: ''
+name: !!python/object/new:lxml.etree._ElementUnicodeResult
+- "\r\n\t\t\t\r\n\t\t\t \r\n\t\t\t\r\n\t\t\t\r\n                \r\n            Soil\
+  \ Regions Map of Afghanistan | NRCS Soils\r\n            \r\n\r\n\r\n\t\t\t\t\r\n"
+url: https://www.nrcs.usda.gov/wps/portal/nrcs/detail/soils/use/?cid=nrcs142p2_054000

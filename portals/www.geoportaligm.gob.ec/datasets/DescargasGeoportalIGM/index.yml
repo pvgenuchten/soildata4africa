@@ -1,0 +1,12 @@
+abstract: "Al nivel nacional y cantonal ver el tema geopedologa\xADa. Mapas y bases\
+  \ de datos para descargar. Tambia\xA9n otros temas (capacidad de uso sistemas productivos\
+  \ ...)"
+contact:
+  email: ''
+  name: ''
+  organisation: ''
+identifier: DescargasGeoportalIGM
+license: ''
+name: !!python/object/new:lxml.etree._ElementUnicodeResult
+- Descargas Geoportal - IGM
+url: http://www.geoportaligm.gob.ec/geoinformacion/index-alt7.html

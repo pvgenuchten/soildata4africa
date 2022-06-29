@@ -1,0 +1,17 @@
+abstract: 'Predictive maps of soil properties and Soil Taxonomy Great Groups based
+  on three national U.S. soil point datasets: NCSS Characterization Database the National
+  Soil Information System (NASIS) and the Rapid Carbon Assessment (RaCA) datasets
+  and using a predictive mapping framework similar to https://www.isric.org/explore/soilgrids
+  SoilGrids v1 but with additional covariates specific to the USA. Hosted at Penn
+  State University.'
+contact:
+  email: ''
+  name: ''
+  organisation: ''
+identifier: SoilPropertiesandClass100mGridsUnitedStates
+license: ''
+name: !!python/object/new:lxml.etree._ElementUnicodeResult
+- '  Soil Properties and Class 100m Grids United States
+
+  '
+url: https://scholarsphere.psu.edu/collections/jw827b80n

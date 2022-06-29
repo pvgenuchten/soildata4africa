@@ -1,0 +1,18 @@
+abstract: from https://www.teagasc.ie Teagasc the agriculture and food development
+  authority in Ireland. The project has gathered together existing information and
+  data from previous soil survey work in Ireland and augmented it with a new field
+  campaign leading to the production of a new national soil map at a scale of 1:250000...
+  An extensive range of soil types (or 'series') have been identified ... each of
+  them different in properties with different environmental and agronomic responses.
+  For each the properties have been recorded in a database that can now be used to
+  satisfy the information required both for soils management and effective policy
+  implementation.
+contact:
+  email: ''
+  name: ''
+  organisation: ''
+identifier: IrishSoilInformationSystem
+license: ''
+name: !!python/object/new:lxml.etree._ElementUnicodeResult
+- Irish Soil Information System
+url: http://gis.teagasc.ie/soils/

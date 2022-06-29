@@ -1,0 +1,12 @@
+abstract: From the (USA) National Water &amp; Climate Center. Time-series of soil
+  moisture temperature snowpack for scattered stations. Also has some records for
+  Puerto Rico US Virgin Islands
+contact:
+  email: ''
+  name: ''
+  organisation: ''
+identifier: SoilClimateConditions
+license: ''
+name: !!python/object/new:lxml.etree._ElementUnicodeResult
+- Soil Climate Conditions
+url: https://www.nrcs.usda.gov/wps/portal/wcc/home/snowClimateMonitoring/soilClimateConditions/

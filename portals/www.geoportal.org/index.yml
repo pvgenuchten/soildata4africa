@@ -1,4 +1,6 @@
-abstract: null
+abstract: A data broker to find datasets. Search terms include soil properties soil
+  moisture and temperature soil chemistry soil C. Can filter search by country/geography
+  and data access conditions.
 contact:
   email: ''
   name: ''

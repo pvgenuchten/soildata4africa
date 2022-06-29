@@ -1,4 +1,6 @@
-abstract: null
+abstract: "e-SOTER is a methodology for producing SOil and TERrain bases according\
+  \ to a \_procedures manual. The databases are ESRI shapefiles at a nominal 1:1M\
+  \ scale."
 contact:
   email: ''
   name: ''

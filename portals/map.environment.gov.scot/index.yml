@@ -1,4 +1,6 @@
-abstract: null
+abstract: Unlike the country to the south freely-downloadable and useable 1:250k 1:25k
+  and points from the national soils inventory on a 10 km grid also topsoil Pb and
+  Zn.
 contact:
   email: ''
   name: ''
@@ -6,4 +8,4 @@ contact:
 identifier: map.environment.gov.scot
 license: ''
 name: Scotland's soils
-url: https://map.environment.gov.scot/Soil_maps/?layer=11&amp;layer=11&layer=11&amp;layer=11
+url: http://map.environment.gov.scot/Soil_maps/?layer=11&amp;layer=11

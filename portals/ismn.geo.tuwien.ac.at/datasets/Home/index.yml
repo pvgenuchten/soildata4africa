@@ -1,0 +1,13 @@
+abstract: Soil moisture which is the water stored in the upper soil layer is a crucial
+  parameter for a large number of applications including numerical weather prediction
+  flood forecasting agricultural drought assessment water resources management greenhouse
+  gas accounting civil protection and epidemiological modeling of water borne diseases.
+contact:
+  email: ''
+  name: ''
+  organisation: ''
+identifier: Home
+license: ''
+name: !!python/object/new:lxml.etree._ElementUnicodeResult
+- 'Home  '
+url: http://ismn.geo.tuwien.ac.at/

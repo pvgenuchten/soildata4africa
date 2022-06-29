@@ -1,4 +1,6 @@
-abstract: null
+abstract: The same data for download as from the Geospatial Data Gateway; use the
+  Download Soils Data tab. An advantage is the possibility to select an area of interest
+  which may cover several soil survey areas.
 contact:
   email: ''
   name: ''
@@ -6,4 +8,4 @@ contact:
 identifier: websoilsurvey.sc.egov.usda.gov
 license: ''
 name: Web Soil Survey
-url: https://websoilsurvey.sc.egov.usda.gov/App/HomePage.htm
+url: http://websoilsurvey.sc.egov.usda.gov/

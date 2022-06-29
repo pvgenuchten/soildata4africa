@@ -1,0 +1,11 @@
+abstract: All digital soil data for these countries subject to signing a licensing
+  agreement and (often) payment. Always licensed never freely-usable.
+contact:
+  email: ''
+  name: ''
+  organisation: ''
+identifier: LandISLandInformationSystemcurrentpagename
+license: ''
+name: !!python/object/new:lxml.etree._ElementUnicodeResult
+- LandIS - Land Information System - current pagename
+url: http://www.landis.org.uk/

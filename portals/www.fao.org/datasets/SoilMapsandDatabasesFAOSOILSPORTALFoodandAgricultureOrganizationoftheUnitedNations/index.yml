@@ -1,0 +1,12 @@
+abstract: Links to global national and FAO legacy maps (scans) also soil profiles
+  and reports soil degradation management biodiversity.
+contact:
+  email: ''
+  name: ''
+  organisation: ''
+identifier: SoilMapsandDatabasesFAOSOILSPORTALFoodandAgricultureOrganizationoftheUnitedNations
+license: ''
+name: !!python/object/new:lxml.etree._ElementUnicodeResult
+- "Soil Maps and Databases\_|\_FAO SOILS PORTAL\_|\_Food and Agriculture Organization\
+  \ of the United Nations"
+url: https://www.fao.org/soils-portal/soil-survey/soil-maps-and-databases/en/

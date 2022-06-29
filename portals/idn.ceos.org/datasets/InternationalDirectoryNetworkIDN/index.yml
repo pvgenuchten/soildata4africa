@@ -1,0 +1,12 @@
+abstract: from the Global Change Master Directory hosted by Goddard Space Flight Center
+  (NASA). A very large catalogue (over 1000 links) of soil parameters (e.g. C CEC
+  heat budget macrofauna...) with links to the actual data and metadata
+contact:
+  email: ''
+  name: ''
+  organisation: ''
+identifier: InternationalDirectoryNetworkIDN
+license: ''
+name: !!python/object/new:lxml.etree._ElementUnicodeResult
+- International Directory Network (IDN)
+url: https://idn.ceos.org

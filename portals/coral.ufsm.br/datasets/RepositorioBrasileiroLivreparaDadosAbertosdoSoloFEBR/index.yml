@@ -1,0 +1,14 @@
+abstract: "foi criado com o proposito de servir de meio para a compilaado organizaado\
+  \ e publicaado de todos os tipos de dados do solo no Brasil. Para isso sa\xA3o usados\
+  \ padra\xB5es baseados em experia\xAAncias internacionais principalmente uma pola\xAD\
+  tica de dados abertos primando pela facilidade de acesso manutena e uso. A meta\
+  \ a\xA9 constituir um repositorio centralizado para armazenar e servir dados do\
+  \ solo em formato padronizado e harmonizado para va\xA1rias aplicaa\xA7a\xB5es."
+contact:
+  email: ''
+  name: ''
+  organisation: ''
+identifier: RepositorioBrasileiroLivreparaDadosAbertosdoSoloFEBR
+license: ''
+name: Repositorio Brasileiro Livre para Dados Abertos do Solo (FEBR)
+url: http://coral.ufsm.br/febr/

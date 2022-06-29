@@ -1,0 +1,15 @@
+abstract: from Cranfield University (England)[A]n archive and catalogue of all substantial
+  soil surveys reports and maps made overseas with particular reference to those by
+  British companies and personnel to provide a safe repository for endangered copies
+  and to make the accrued information widely available for consultation by interested
+  parties.. Materials are scanned as requested and if scanned free for download. Excellent
+  metadata and search interface; about 23k items catalogued.
+contact:
+  email: ''
+  name: ''
+  organisation: ''
+identifier: WOSSACWorldSoilSurveyArchiveandCatalogue
+license: ''
+name: !!python/object/new:lxml.etree._ElementUnicodeResult
+- WOSSAC - World Soil Survey Archive and Catalogue
+url: https://www.wossac.com

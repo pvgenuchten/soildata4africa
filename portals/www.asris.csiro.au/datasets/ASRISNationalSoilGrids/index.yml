@@ -1,0 +1,11 @@
+abstract: '250 m horizontal resolution; themes: Australian Soil Classification; clay
+  percentage; bulk density pH plant available water'
+contact:
+  email: ''
+  name: ''
+  organisation: ''
+identifier: ASRISNationalSoilGrids
+license: ''
+name: !!python/object/new:lxml.etree._ElementUnicodeResult
+- A S R I S - National Soil Grids
+url: http://www.asris.csiro.au/themes/NationalGrids.html

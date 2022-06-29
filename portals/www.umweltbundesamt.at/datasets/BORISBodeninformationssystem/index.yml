@@ -1,0 +1,12 @@
+abstract: "BORIS informiert a\xBCber den Zustand a\xB6sterreichischer Ba\xB6den. Das\
+  \ Umweltbundesamt bietet Bodendaten der Bundesla\xA4nder und des Bundes in vergleichbarer\
+  \ und qualita\xA4tsgepra\xBCfter Form online an."
+contact:
+  email: ''
+  name: ''
+  organisation: ''
+identifier: BORISBodeninformationssystem
+license: ''
+name: !!python/object/new:lxml.etree._ElementUnicodeResult
+- BORIS - Bodeninformationssystem
+url: https://www.umweltbundesamt.at/boris

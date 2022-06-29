@@ -1,4 +1,9 @@
-abstract: null
+abstract: from https://opengeohub.org OpenGeoHub Access and interactive visualizations
+  of the Terabytes of high resolution data (1 km 250 m or better) produced by the
+  OpenGeoHub Foundation and/or contributing organizations.Search in the Themes and
+  Datasets panel for Soil Properties and Classes. These are produced by machine-learning
+  methods based on a large number of point observations and covariate layers as explained
+  https://gitlab.com/openlandmap
 contact:
   email: ''
   name: ''

@@ -1,0 +1,13 @@
+abstract: 'On the basis of soil parameters provided by HWSD seven key soil qualities
+  important for crop production have been derived namely: nutrient availability nutrient
+  retention capacity rooting conditions oxygen availability to roots excess salts
+  toxicities and workability.'
+contact:
+  email: ''
+  name: ''
+  organisation: ''
+identifier: IIASALandUseChangeandAgricultureProgram
+license: ''
+name: !!python/object/new:lxml.etree._ElementUnicodeResult
+- IIASA - Land Use Change and Agriculture Program
+url: https://webarchive.iiasa.ac.at/Research/LUC/External-World-soil-database/HTML/SoilQualityData.html?sb=11

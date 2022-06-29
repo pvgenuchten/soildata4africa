@@ -1,0 +1,16 @@
+abstract: A composite database that provides the best available soils information
+  for all areas of the United States and Island Territories. It was created by combining
+  data from the Soil Survey Geographic Database (SSURGO) State Soil Geographic Database
+  (STATSGO2) and Raster Soil Survey Databases (RSS) into a single seamless ESRI file
+  geodatabase.
+contact:
+  email: ''
+  name: ''
+  organisation: ''
+identifier: GriddedNationalSoilSurveyGeographicDatabasegNATSGONRCSSoils
+license: ''
+name: !!python/object/new:lxml.etree._ElementUnicodeResult
+- "\r\n\t\t\t\r\n\t\t\t \r\n\t\t\t\r\n\t\t\t\r\n                \r\n            Gridded\
+  \ National Soil Survey Geographic Database (gNATSGO) | NRCS Soils\r\n          \
+  \  \r\n\r\n\r\n\t\t\t\t\r\n"
+url: https://www.nrcs.usda.gov/wps/portal/nrcs/detail/soils/survey/geo/?cid=nrcseprd1464625

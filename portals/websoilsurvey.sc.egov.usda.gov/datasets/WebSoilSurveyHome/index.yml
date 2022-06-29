@@ -1,0 +1,12 @@
+abstract: The same data for download as from the Geospatial Data Gateway; use the
+  Download Soils Data tab. An advantage is the possibility to select an area of interest
+  which may cover several soil survey areas.
+contact:
+  email: ''
+  name: ''
+  organisation: ''
+identifier: WebSoilSurveyHome
+license: ''
+name: !!python/object/new:lxml.etree._ElementUnicodeResult
+- Web Soil Survey - Home
+url: http://websoilsurvey.sc.egov.usda.gov/

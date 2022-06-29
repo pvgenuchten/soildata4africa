@@ -1,4 +1,8 @@
-abstract: null
+abstract: Spatial predictions of content of soil macro and micro-nutrients across
+  Sub-Saharan Africa at 250 m spatial resolution for the 0-30 cm depth interval Model
+  training based on soil samples from 59000 locations from the AfSIS EthioSIS One
+  Acre Fund VitalSigns and other legacy soil databases and an extensive stack of remote
+  sensing covariates as well as landform lithologic and land cover maps.
 contact:
   email: ''
   name: ''

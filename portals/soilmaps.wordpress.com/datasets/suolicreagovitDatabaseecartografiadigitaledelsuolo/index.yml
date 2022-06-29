@@ -1,0 +1,12 @@
+abstract: "From the Consiglio per la ricerca in agricoltura e l\xE2\u20AC\u2122analisi\
+  \ dell\xE2\u20AC\u2122economia agraria (CREA) Firenze. Various thematic soil maps\
+  \ of Italy"
+contact:
+  email: ''
+  name: ''
+  organisation: ''
+identifier: suolicreagovitDatabaseecartografiadigitaledelsuolo
+license: ''
+name: !!python/object/new:lxml.etree._ElementUnicodeResult
+- "suoli.crea.gov.it \u2013 Database e cartografia digitale del suolo"
+url: https://soilmaps.wordpress.com/

@@ -1,0 +1,14 @@
+abstract: The Global Soil Regions map is based on a reclassification of the FAO-UNESCO
+  Soil Map of the World combined with a soil climate map. The soil map shows the distribution
+  of the 12 soil orders according to Soil Taxonomy rasterized on a 2' grid cell. From
+  the USDA/NRCS World Soil Resources office.
+contact:
+  email: ''
+  name: ''
+  organisation: ''
+identifier: GlobalSoilRegionsMapNRCSSoils
+license: ''
+name: !!python/object/new:lxml.etree._ElementUnicodeResult
+- "\r\n\t\t\t\r\n\t\t\t \r\n\t\t\t\r\n\t\t\t\r\n                \r\n            Global\
+  \ Soil Regions Map | NRCS Soils\r\n            \r\n\r\n\r\n\t\t\t\t\r\n"
+url: https://www.nrcs.usda.gov/wps/portal/nrcs/detail/soils/use/worldsoils/?cid=nrcs142p2_054013

@@ -1,0 +1,15 @@
+abstract: National Soil Survey Center Soil Characterization Data Mostly USA but includes
+  analytical data for about 1100 pedons from other countries. The above link describes
+  the dataset; it can be downloaded from the http://ncsslabdatamart.sc.egov.usda.gov/
+  NCSS Soil Characterization Database
+contact:
+  email: ''
+  name: ''
+  organisation: ''
+identifier: GeneralDescriptionforNCSSSoilCharacterizationDataNRCSSoils
+license: ''
+name: !!python/object/new:lxml.etree._ElementUnicodeResult
+- "\r\n\t\t\t\r\n\t\t\t \r\n\t\t\t\r\n\t\t\t\r\n                \r\n            General\
+  \ Description for NCSS Soil Characterization Data | NRCS Soils\r\n            \r\
+  \n\r\n\r\n\t\t\t\t\r\n"
+url: https://www.nrcs.usda.gov/wps/portal/nrcs/detail/soils/research/?cid=nrcs142p2_053543

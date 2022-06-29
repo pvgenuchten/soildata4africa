@@ -1,9 +1,11 @@
-abstract: null
+abstract: landuse evapotranspiration historical and future weather databases for SWAT
+  Applications
 contact:
   email: ''
   name: ''
   organisation: ''
+datasetidentifier: https://doi.org/10.1038/s41597-019-0282-4
 identifier: www.nature.com
 license: ''
 name: Global soil
-url: https://www.nature.com/articles/s41597-019-0282-4
+url: https://doi.org/10.1038/s41597-019-0282-4

@@ -1,4 +1,7 @@
-abstract: null
+abstract: (NCSCDv2) a spatial dataset created for the purpose of quantifying storage
+  of organic carbon in soils of the northern circumpolar permafrost region from the
+  Bolin Centre of Stockholm University. Includes downloadable points (to 3 m) grids
+  and polygons of C stocks.
 contact:
   email: ''
   name: ''

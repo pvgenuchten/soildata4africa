@@ -1,4 +1,4 @@
-abstract: null
+abstract: .nan
 contact:
   email: ''
   name: ''
@@ -6,4 +6,4 @@ contact:
 identifier: www.asris.csiro.au
 license: ''
 name: Australian Soil Resources Information System (ASRIS)
-url: https://www.asris.csiro.au/
+url: http://www.asris.csiro.au/

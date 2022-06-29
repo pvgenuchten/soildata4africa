@@ -1,4 +1,9 @@
-abstract: null
+abstract: "Scans of legacy maps over the whole world downloadable (and on CD-ROM)\
+  \ and with metadata. To be usable in GIS these must be georeferenced the linework\
+  \ digitized and a linked attribute database created. Reference: Panagos P. Jones\
+  \ A. Bosco C. Senthil Kumar P.S. (2011): European digital archive on soil maps (EuDASM):\
+  \ preserving important soil data for public free access. International Journal of\
+  \ Digital Earth 4(5): 434-443. DOI:10.1080/17538947.2011.596580 \_global"
 contact:
   email: ''
   name: ''

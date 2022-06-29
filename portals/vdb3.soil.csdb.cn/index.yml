@@ -1,9 +1,13 @@
-abstract: null
+abstract: GeoTIFFs of predicted soil dry and moist colours at at 1 km2 grid cell size
+  and over multiple depths. R G B separates RGB true-colour composites. Described
+  in Liu F. Rossiter D. G. Zhang G.-L. Li D.-C. (2020). A soil colour map of China.
+  Geoderma379
 contact:
   email: ''
   name: ''
   organisation: ''
+datasetidentifier: https://dx.doi.org/10.11666/00072.ver1.db
 identifier: vdb3.soil.csdb.cn
 license: ''
 name: Predicted colours of Chinese soils
-url: http://vdb3.soil.csdb.cn/extend/jsp/color1km
+url: https://dx.doi.org/10.11666/00072.ver1.db

@@ -1,0 +1,12 @@
+abstract: from the National Soil Science Research Center at 250m resolution. Maps
+  of parent material and a set of soil properties. Downloadable after registration
+  API to integrate into other products
+contact:
+  email: ''
+  name: ''
+  organisation: ''
+identifier: SoilMapNARC
+license: ''
+name: !!python/object/new:lxml.etree._ElementUnicodeResult
+- Soil Map | NARC
+url: https://soil.narc.gov.np/soil/soilmap/

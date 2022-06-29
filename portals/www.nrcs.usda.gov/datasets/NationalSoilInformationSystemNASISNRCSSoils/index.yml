@@ -1,0 +1,13 @@
+abstract: The dynamic internal database behind products including SSURGO and Web Soil
+  Survey. Not for use outside NRCS but you could ask for access conditions.
+contact:
+  email: ''
+  name: ''
+  organisation: ''
+identifier: NationalSoilInformationSystemNASISNRCSSoils
+license: ''
+name: !!python/object/new:lxml.etree._ElementUnicodeResult
+- "\r\n\t\t\t\r\n\t\t\t \r\n\t\t\t\r\n\t\t\t\r\n                \r\n            National\
+  \ Soil Information System (NASIS) | NRCS Soils\r\n            \r\n\r\n\r\n\t\t\t\
+  \t\r\n"
+url: https://www.nrcs.usda.gov/wps/portal/nrcs/detail/soils/survey/tools/?cid=nrcs142p2_053552

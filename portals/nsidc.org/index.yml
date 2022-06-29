@@ -1,4 +1,7 @@
-abstract: null
+abstract: Data collected by Dr. James G. Bockheim and his colleagues from 1975 through
+  1987. Data include site information air and soil temperature measurements soil profile
+  features and surface boulder weathering features for 482 sites in the McMurdo Sound
+  area of Antarctica.
 contact:
   email: ''
   name: ''
@@ -6,4 +9,4 @@ contact:
 identifier: nsidc.org
 license: ''
 name: University of Wisconsin Antarctic Soils Database
-url: https://nsidc.org/data/ggd221
+url: http://nsidc.org/data/ggd221

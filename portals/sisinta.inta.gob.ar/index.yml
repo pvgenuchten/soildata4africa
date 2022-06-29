@@ -1,4 +1,6 @@
-abstract: null
+abstract: "Base de datos del https://www.argentina.gob.ar/inta Instituto Nacional\
+  \ de Tecnologa\xADa Agropecuaria \_(INTA). Actualmente (2020-Mar-29) hay 5865 perfiles\
+  \ (4662 publicos) cargados en 4189 series"
 contact:
   email: ''
   name: ''
@@ -6,4 +8,4 @@ contact:
 identifier: sisinta.inta.gob.ar
 license: ''
 name: Sistema de informacion de Suelos del INTA (SiSINTA)
-url: http://sisinta.inta.gob.ar/
+url: http://sisinta.inta.gob.ar

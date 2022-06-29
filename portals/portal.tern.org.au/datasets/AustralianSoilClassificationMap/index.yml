@@ -1,0 +1,12 @@
+abstract: A map of Australian Soil Classification Soil Order classes with quantified
+  estimates of mapping reliability at a 90m resolution; methods described https://aussoilsdsm.esoil.io/slga-version-2-products/australian-soil-classification-map
+  .
+contact:
+  email: ''
+  name: ''
+  organisation: ''
+identifier: AustralianSoilClassificationMap
+license: ''
+name: !!python/object/new:lxml.etree._ElementUnicodeResult
+- Australian Soil Classification Map
+url: https://portal.tern.org.au/australian-soil-classification-map/22160

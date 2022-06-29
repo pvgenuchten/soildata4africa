@@ -1,0 +1,12 @@
+abstract: Maintained at Ohio State University by https://geography.osu.edu/people/quiring.10
+  Steven Quiring . Harmonized and quality-controlled. Explained in http://dx.doi.org/10.1175/BAMS-D-13-00263.1
+  this paper.
+contact:
+  email: ''
+  name: ''
+  organisation: ''
+identifier: NationalSoilMoistureNetwork
+license: ''
+name: !!python/object/new:lxml.etree._ElementUnicodeResult
+- National Soil Moisture Network
+url: http://nationalsoilmoisture.com

@@ -1,4 +1,13 @@
-abstract: null
+abstract: "The USA's contribution to the https://www.isric.org/projects/globalsoilmapnet\
+  \ GlobalSoilMap.net \_project which is currently on-hold. This product from 2015\
+  \ is however fully in accordance with the specifications: 6 standard depth intervals\
+  \ based on equal area spline functions (0-5; 5-15; 15-30; 30-60; 60-100; and 100-200cm)\
+  \ for twelve soil properties (total profile depth-cm; plant exploitable (effective)\
+  \ soil depth-cm; organic carbon-g/kg; pH1:5 water; sand-g/kg; silt-g/kg; clay-g/kg;\
+  \ gravel-m3 m-3; ECEC-cmolc/kg; bulk density (&lt; 2 mm) fraction-Mg/m3; bulk density\
+  \ of the whole soil in situ (includes gravel)-Mg/m3; and available water capacity-mm.\
+  \ Nominal grid resolution is 3 of arc about 100m. An extensive database includes\
+  \ uncertainty estimates. Explained by the NRCS https://www.nrcs.usda.gov/wps/portal/nrcs/detail/soils/research/?cid=nrcseprd1321715"
 contact:
   email: ''
   name: ''

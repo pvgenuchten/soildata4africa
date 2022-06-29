@@ -1,0 +1,13 @@
+abstract: "Die Daten werden in 1 x 1km Rasteraufla\xB6sung mit allen parametrisierten\
+  \ Auswertungen angeboten. Fa\xBCr jede Rasterzelle werden zusa\xA4tzlich der Prozentanteil\
+  \ der Summe aller Bodenformen sowie der Prozentanteil der Hauptbodenform mit dem\
+  \ gra\xB6a\u0178ten Anteil angegeben."
+contact:
+  email: ''
+  name: ''
+  organisation: ''
+identifier: eBOD2
+license: ''
+name: !!python/object/new:lxml.etree._ElementUnicodeResult
+- eBOD2
+url: https://bodenkarte.at/

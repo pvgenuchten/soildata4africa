@@ -1,4 +1,7 @@
-abstract: null
+abstract: 'From the https://openlandmap.org OpenLandMap project. Points collected
+  from various sources provided under open data license with detailed instructions
+  on how to use the data. Data sources and formats explained https://gitlab.com/openlandmap/compiled-ess-point-data-sets/-/tree/master/themes/sol/SoilChemDB
+  Two sets: chemical and physical properties.'
 contact:
   email: ''
   name: ''

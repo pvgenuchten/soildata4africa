@@ -1,0 +1,11 @@
+abstract: Soil Geographical Database of Eurasia at scale 1:10000 (SGDBE) Pedotransfer
+  Rules Database (PTRDB)
+contact:
+  email: ''
+  name: ''
+  organisation: ''
+identifier: EuropeanSoilDatabasev20vectorandattributedataESDACEuropeanCommission
+license: ''
+name: !!python/object/new:lxml.etree._ElementUnicodeResult
+- European Soil Database v2.0 (vector and attribute data) - ESDAC - European Commission
+url: https://esdac.jrc.ec.europa.eu/content/european-soil-database-v20-vector-and-attribute-data

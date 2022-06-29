@@ -1,4 +1,13 @@
-abstract: null
+abstract: "Gridded soil property predictive maps at 30 m horizontal resolution for\
+  \ sub-Saharan Africa. Soil chemical physical and nutrients; agronomy information\
+  \ including a partial implementation of the Fertility Capability Classification\
+  \ (FCC) system of soil-related limitations. The claim is that these maps make soil\
+  \ properties and advisory services possible at the level of the single small farm.\
+  \ From https://www.isda-africa.com/ iSDA-Africa an initiative to bring smart farming\
+  \ to this region. This is a followup to the AfSIS project.Available for download\
+  \ https://zenodo.org/search?page=1&amp;size=50&amp;q=iSDAsoil via Zenodo \_Also\
+  \ available as a data cube including agronomy data see https://medium.com/nerd-for-tech/soil-and-agronomy-data-cube-for-africa-at-30-m-spatial-resolution-591e04bfc372\
+  \ Soil and Agronomy Data Cube for Africa at 30-m spatial resolution"
 contact:
   email: ''
   name: ''

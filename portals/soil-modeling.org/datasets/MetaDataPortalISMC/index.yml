@@ -1,0 +1,12 @@
+abstract: 'from the https://soil-modeling.org/ International Soil Modeling Consortium
+  (ISMC) .Collections relevant to modelling soil processes: hydrology soil physics
+  pedogenesis... at scales from macropore to continental.'
+contact:
+  email: ''
+  name: ''
+  organisation: ''
+identifier: MetaDataPortalISMC
+license: ''
+name: !!python/object/new:lxml.etree._ElementUnicodeResult
+- "Meta-Data Portal \u2014 ISMC"
+url: https://soil-modeling.org/resources-links/data-portal
