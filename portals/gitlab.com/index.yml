@@ -1,0 +1,9 @@
+abstract: null
+contact:
+  email: ''
+  name: ''
+  organisation: ''
+identifier: gitlab.com
+license: ''
+name: 'Compiled Earth System Science point data sets: soil chemical and physical properties'
+url: https://gitlab.com/openlandmap/compiled-ess-point-data-sets#soil-properties-and-classes

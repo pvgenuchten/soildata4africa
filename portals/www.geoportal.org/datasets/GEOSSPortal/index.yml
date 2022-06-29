@@ -1,0 +1,18 @@
+'@context': https://schema.org/
+'@type': WebSite
+abstract: The GEOSS Portal is the online map-based user interface of the GEOSS Platform.
+  The GEOSS Platform is the cornerstone of the Global Earth Observation System of
+  Systems (GEOSS), a social and software ecosystem to strengthen monitoring of the
+  state of the Earth. It facilitates data and information accessibility and interoperability
+  to support the Sustainable Development Goals (SDG) and the Climate Change agenda
+  and the Disaster Risk Reduction. The GEOSS Platform connects, inter-operates and
+  provides access to the ever-growing quantities of heterogeneous collections of Earth
+  observations from satellites, airplanes, drones and in-situ sensors at global, regional
+  and local scales.
+name: GEOSS Portal
+potentialAction:
+  '@type': SearchAction
+  query-input: required name=search_term_string
+  target: https://www.geoportal.org/?f:phrase={search_term_string}&f:dataSource=dab
+url: https://www.geoportal.org/
+usageInfo: https://www.geoportal.org/community/guest/terms-conditions

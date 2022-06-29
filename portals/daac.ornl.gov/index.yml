@@ -1,0 +1,9 @@
+abstract: null
+contact:
+  email: ''
+  name: ''
+  organisation: ''
+identifier: daac.ornl.gov
+license: ''
+name: Soil Collections data sets
+url: https://daac.ornl.gov/cgi-bin/dataset_lister.pl?p=19

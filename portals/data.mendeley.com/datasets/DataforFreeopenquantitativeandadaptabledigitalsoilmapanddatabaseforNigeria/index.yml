@@ -1,0 +1,53 @@
+'@context': http://schema.org/
+'@type': Dataset
+author:
+  '@type': Person
+  name: Ugonna Nkwunonwo
+citation:
+  '@type': CreativeWork
+  datePublished: '2021-04-26T15:21:41.975Z'
+  headline: 'Data for: Free, open, quantitative and adaptable digital soil map and
+    database for Nigeria'
+  text: 'Nkwunonwo, Ugonna (2021), ''Data for: Free, open, quantitative and adaptable
+    digital soil map and database for Nigeria'', Mendeley Data, v1, http://doi.org/10.17632/zmrt6k83wk.1'
+  url: https://data.mendeley.com/datasets/zmrt6k83wk/1
+datePublished: '2021-04-26T15:21:41.975Z'
+description: "Nigeria\xE2\x80\x99s DSM data and soil database of Nigeria is a predictive\
+  \ or computer-assisted digital depiction of Nigeria\xE2\x80\x99s soil types, properties\
+  \ and spatial distribution. In this novel DSM data and soil database, secondary\
+  \ data in the form of compiled hard copies, derived from the 1985 reconnaissance\
+  \ soil survey are transformed into vectors and symbols encoded and held as data\
+  \ structures within the map layout. The DSM data and its database hold information\
+  \ relating to the Nigerian soil in geographically referenced numerical format. Thus,\
+  \ it delineates quantitatively and interactively the 58 soil components (soil mapping\
+  \ units), based on three ecological zones, twenty-four broad geomorphic units and\
+  \ parent materials in Nigeria. These soil mapping units are numbered from \xE2\x80\
+  \x981a\xE2\x80\x99 to \xE2\x80\x9824b\xE2\x80\x99 and provides much quantitative\
+  \ information for environmental modelling and analyses using the Nigeria\xE2\x80\
+  \x99s DSM data and database (Refer to [1] for a full list of the mapping units that\
+  \ describes the Nigeria\xE2\x80\x99s soil distribution and their spatial distinctions).\n\
+  This DSM and its database have a highly unique legend with flexible scales, are\
+  \ easy to update with location-specific measure of accuracy, and guarantees data\
+  \ security. Users can quickly generate spatial soil information that provides ample\
+  \ solutions to the growing demand for high-resolution soil data. This solves the\
+  \ cartographic and qualitative limitations of the 1990 FDALR hard copy soil maps.\
+  \ The DSM incorporates queries and spatial analyses tools to generate thematic maps\
+  \ of basic soil properties within the context of Nigeria such as soil mapping unit,\
+  \ geology (basement complex, basalt, sandstone, Aeolian sandstone, shale, etcetera),\
+  \ soil classification  (USDA and FAO), pH scales (acidic, basic, neutral, etcetera)\
+  \ and ecological zones (wetland, rainforest, savanna). "
+includedInDataCatalog: https://data.mendeley.com
+keywords: Environmental Science, Cartography, Geographic Information Systems
+license:
+  '@type': CreativeWork
+  text: CC BY NC 3.0
+  url: https://creativecommons.org/licenses/by-nc/3.0
+mainEntityOfPage:
+  '@id': https://data.mendeley.com/datasets/zmrt6k83wk/1
+  '@type': WebPage
+name: 'Data for: Free, open, quantitative and adaptable digital soil map and database
+  for Nigeria'
+publisher: null
+sameAs: https://data.mendeley.com/datasets/zmrt6k83wk/1
+url: http://doi.org/10.17632/zmrt6k83wk.1
+version: '1'

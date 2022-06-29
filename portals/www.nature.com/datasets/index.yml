@@ -1,0 +1,87 @@
+'@context': https://schema.org
+'@type': WebPage
+mainEntity:
+  '@type': ScholarlyArticle
+  author:
+  - '@type': Person
+    affiliation:
+    - '@type': Organization
+      address:
+        '@type': PostalAddress
+        name: "Eawag, Swiss Federal Institute of Aquatic Science and Technology, D\xC3\
+          \xBCbendorf, Switzerland"
+      name: Eawag, Swiss Federal Institute of Aquatic Science and Technology
+    name: Abbaspour, K. C.
+  - '@type': Person
+    affiliation:
+    - '@type': Organization
+      address:
+        '@type': PostalAddress
+        name: "Eawag, Swiss Federal Institute of Aquatic Science and Technology, D\xC3\
+          \xBCbendorf, Switzerland"
+      name: Eawag, Swiss Federal Institute of Aquatic Science and Technology
+    name: Vaghefi, S. Ashraf
+    url: http://orcid.org/0000-0002-3061-6493
+  - '@type': Person
+    affiliation:
+    - '@type': Organization
+      address:
+        '@type': PostalAddress
+        name: "Eawag, Swiss Federal Institute of Aquatic Science and Technology, D\xC3\
+          \xBCbendorf, Switzerland"
+      name: Eawag, Swiss Federal Institute of Aquatic Science and Technology
+    email: hong.yang@eawag.ch
+    name: Yang, H.
+  - '@type': Person
+    affiliation:
+    - '@type': Organization
+      address:
+        '@type': PostalAddress
+        name: Department of Ecosystem Science and Management, Texas A & M University,
+          College Station, USA
+      name: Texas A & M University
+    name: Srinivasan, R.
+  dateModified: '2019-11-06'
+  datePublished: '2019-11-06'
+  description: "Large-scale distributed watershed models are data-intensive, and preparing\
+    \ them consumes most of the research resources. We prepared high-resolution global\
+    \ databases of soil, landuse, actual evapotranspiration (AET), and historical\
+    \ and future weather databases that could serve as standard inputs in Soil and\
+    \ Water Assessment Tool (SWAT) models. The data include two global soil maps and\
+    \ their associated databases calculated with a large number of pedotransfer functions,\
+    \ two landuse maps and their correspondence with SWAT\xE2\x80\x99s database, historical\
+    \ and future daily temperature and precipitation data from five IPCC models with\
+    \ four scenarios; and finally, global monthly AET data. Weather data are 0.5\xC2\
+    \xB0 global grids text-formatted for direct use in SWAT models. The AET data is\
+    \ formatted for use in SWAT-CUP (SWAT Calibration Uncertainty Procedures) for\
+    \ calibration of SWAT models. The use of these global databases for SWAT models\
+    \ can speed up the model building by 75\xE2\x80\x9380% and are extremely valuable\
+    \ in areas with limited or no physical data. Furthermore, they can facilitate\
+    \ the comparison of model results in different parts of the world. \n        \
+    \        \n                  \n                    \n                    \n  \
+    \                  \n                  \n                \n               Machine-accessible\
+    \ metadata file describing the reported data: \n                https://doi.org/10.6084/m9.figshare.10043090\n\
+    \                \n              "
+  headline: Global soil, landuse, evapotranspiration, historical and future weather
+    databases for SWAT Applications
+  image: https://static-content.springer.com/image/art%3A10.1038%2Fs41597-019-0282-4/MediaObjects/41597_2019_282_Fig1_HTML.png
+  isAccessibleForFree: true
+  isPartOf:
+    '@type':
+    - Periodical
+    - PublicationVolume
+    issn:
+    - 2052-4463
+    name: Scientific Data
+    volumeNumber: '6'
+  keywords: Climate sciences,Hydrology,Science,Humanities and Social Sciences,multidisciplinary
+  license: http://creativecommons.org/publicdomain/zero/1.0/
+  pageEnd: '11'
+  pageStart: '1'
+  publisher:
+    '@type': Organization
+    logo:
+      '@type': ImageObject
+      url: https://www.springernature.com/app-sn/public/images/logo-springernature.png
+    name: Nature Publishing Group UK
+  sameAs: https://doi.org/10.1038/s41597-019-0282-4

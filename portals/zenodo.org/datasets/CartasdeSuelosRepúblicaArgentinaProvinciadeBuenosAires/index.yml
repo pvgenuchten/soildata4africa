@@ -1,0 +1,1459 @@
+'@context': https://schema.org/
+'@id': https://doi.org/10.5281/zenodo.6353509
+'@type': Dataset
+creator:
+- '@type': Person
+  affiliation: "Instituto de Suelos (CIRN). Instituto Nacional de Tecnolog\xEDa Agropecuaria"
+  name: INTA - Instituto de Suelos - CIRN
+datePublished: '2022-05-12'
+description: '<p>El Plan Mapa de Suelos de la Regi&oacute;n Pampeana en el a&ntilde;o
+  1964 marca la etapa de mayor trascendencia del inventario de los suelos de nuestro
+  pa&iacute;s a escala de semidetalle&nbsp;y de reconocimiento (1:50.000 - 1:100.000).
+  Las Cartas de Suelos de la Provincia de Buenos Aires son el resultado de este plan
+  y la continuaci&oacute;n de las tareas de relevamiento y cartograf&iacute;a&nbsp;de
+  suelos hasta la actualidad. El Instituto Nacional de Tecnolog&iacute;a Agropecuaria
+  (INTA) pone a disposici&oacute;n de la comunidad, para su libre descarga&nbsp;la&nbsp;informaci&oacute;n
+  vectorial de suelos a escala 1:50.000 de la Provincia de Buenos Aires&nbsp;elaborado
+  a partir de la digitalizaci&oacute;n del material original de las Cartas de Suelos
+  de la Rep&uacute;blica Argentina. La informaci&oacute;n de las series de suelos
+  se encuentra basada en lo publicado en&nbsp;http://anterior.inta.gob.ar/suelos/cartas/.</p>
+
+
+  <p>Tambi&eacute;n se presenta para la descarga la&nbsp;Carta de suelos del&nbsp;partido
+  de Villarino a escala 1: 250.000.&nbsp;En el siguiente link se puede acceder al
+  informe de dicha carta y la&nbsp;descarga de mapas tem&aacute;ticos:&nbsp;https://inta.gob.ar/documentos/carta-de-suelos-de-la-republica-argentina-partido-de-villarino-provincia-de-buenos-aires.</p>
+
+
+  <p>En los siguientes scripts (https://github.com/INTA-Suelos/SuelosBA) se puede&nbsp;trabajar
+  con las unidades cartogr&aacute;ficas y series.</p>'
+distribution:
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/1_Mapa_de_Suelos_BA_50000_V1.rar
+  encodingFormat: rar
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/2_Mapa_de_Suelos_Partido_Villarino_250.000.rar
+  encodingFormat: rar
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Aar\xF3\
+    n Castellanos.pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Abbott.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Aguas
+    Verdes.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Agust\xED\
+    n Roca.pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Alejandro
+    Korn.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Alem.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Alta
+    Vista.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Ameghino.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Amen\xE1\
+    bar.pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Apeadero\
+    \ Las Vaquer\xEDas.pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Argerich.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Arrecifes.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Arroyo
+    Chico.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Arroyo
+    Corto.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Arroyo
+    de Zabala.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Arroyo
+    Dulce.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Arroyo\
+    \ Ju\xE1rez.pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Arroyo
+    Pantanoso.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Atalaya.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Atucha.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Ayacucho.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Azcu\xE9\
+    naga.pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Azopardo.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Azul.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Bah\xED\
+    a Blanca.pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Bah\xED\
+    a Samboromb\xF3n.pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Bajo
+    Hondo.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Balb\xED\
+    n.pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Balcarce.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Barker.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Bella
+    Vista.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Blanca
+    Chica.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Bol\xED\
+    var.pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Bonete.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Bragado.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Brandsen.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/C115
+    RP.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Cachar\xED\
+    .pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Calder\xF3\
+    n.pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Ca\xF1\
+    ada Honda.pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Ca\xF1\
+    ada Seca.pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Canal
+    Siete.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Capilla\
+    \ del Se\xF1or.pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Capit\xE1\
+    n Sarmiento.pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Cappannini.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Carabelas.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Carhu\xE9\
+    .pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Carlos
+    Salas.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Carlos
+    Tejedor.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Cascada.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Castelli.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Cerro
+    del Chimango.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Chacabuco.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Chaj\xE1\
+    .pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Chascom\xFA\
+    s.pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Chasic\xF3\
+    .pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Chelfor\xF3\
+    .pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Chocor\xED\
+    .pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Cinco
+    Cerros.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Claudio
+    Molina.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Cobo.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Comandante
+    Espora.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Comandante
+    Nicanor Otamendi.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Comodoro
+    Py.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Copetonas.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Coronel
+    Bunge.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Coronel
+    Vidal.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Corrales.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Cristiano
+    Muerto.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Cruzada.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Cuatreros.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Cura
+    Malal.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Delgado.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Del
+    Valle.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Dolores.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Drabble.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Dufaur.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Ega\xF1\
+    a.pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/El
+    Abolengo.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/El
+    Algarrobo.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/El
+    Arbolito.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/El\
+    \ Cald\xE9n.pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/El\
+    \ Ca\xF1\xF3n.pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/El
+    Carmen.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/El
+    Carrizal.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/El
+    Cortijo.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/El
+    Destino.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Elena.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/El\
+    \ Fort\xEDn.pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/El\
+    \ Gavil\xE1n.pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Elordi.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/El
+    Recuerdo.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/El\
+    \ Rinc\xF3n.pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/El
+    Rosario.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/El
+    Tamarindo.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/El
+    Tordillo.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/El
+    Toro.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/El\
+    \ Tuy\xFA.pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/El
+    Vigilante.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Epecu\xE9\
+    n.pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Erize.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Esquina
+    de Crotto.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Estaci\xF3\
+    n Chas.pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Estaci\xF3\
+    n Dennehy.pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Estaci\xF3\
+    n Doce de Octubre.pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Estaci\xF3\
+    n Gonz\xE1lez Moreno.pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Estaci\xF3\
+    n Invernadas.pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Estaci\xF3\
+    n La Limpia.pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Estaci\xF3\
+    n La Nevada.pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Estaci\xF3\
+    n Morea.pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Estaci\xF3\
+    n Na\xF3n.pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Estaci\xF3\
+    n Quilc\xF3.pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Estaci\xF3\
+    n Rivera.pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Estaci\xF3\
+    n Santo Domingo.pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Estaci\xF3\
+    n Segurola.pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Estaci\xF3\
+    n Yerbas.pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Estancia
+    Aldecoa.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Estancia
+    La Alicia.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Estancia
+    La Angelita.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Estancia
+    La Chana.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Estancia
+    La Criolla.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Estancia
+    La Margarita.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Estancia
+    La Negra.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Estancia
+    La Salada.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Estancia
+    La Victoria.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Estancia
+    Los Andes.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Estancia
+    Los Manantiales.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Estancia
+    Melamed.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Estancia
+    Ojo de Agua.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Estancia
+    Quince de Abril.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Estancia
+    Renana.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Estancia
+    San Baldomero.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Estancia
+    San Bernardo.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Estancia
+    Santa Ana.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Estancia\
+    \ Tarrhu\xE9.pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Estela.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Etcheverry.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Faro\
+    \ Querand\xED.pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Faustina.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Fort\xED\
+    n Tiburcio.pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Fuerte
+    Argentino.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Garnica.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Gelly.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/General
+    Cerri.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/General
+    Conesa.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/General
+    Guido.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/General
+    La Madrid.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/General
+    Lavalle.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/General
+    Madariaga.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/General\
+    \ Pir\xE1n.pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Gonz\xE1\
+    lez Chaves.pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Gorostiaga.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Gouin.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Gowland.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Goyena.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Goyeneche.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Grunbein.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Guamin\xED\
+    .pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Guillermo.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Harding
+    Green.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Henderson.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Henry
+    Bell.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Huemul.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Hughes.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Ignacio
+    Correa.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Indacochea.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Ingeniero
+    Silveyra.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Ingeniero
+    White.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Isla
+    Zuraita.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Juancho.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Juncalito.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Juncal.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Jun\xED\
+    n.pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/La
+    Albina.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/La
+    Alianza.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/La
+    Angelita.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/La
+    Aurora.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Laboulaye.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/La
+    Celina.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/La
+    Cesira.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/La
+    Colina.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/La
+    Criolla.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/La
+    Delicia.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/La
+    Emma.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/La
+    Escocia.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/La
+    Esmeralda.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/La
+    Gotera.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/La
+    Guanaca.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/La
+    Guarida del Zorro.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Laguna
+    Blanca.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Laguna
+    Puan.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/La
+    Julia.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/La
+    Libertad.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/La
+    Limpia.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/La
+    Loma.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/La
+    Malacara.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/La\
+    \ Mar\xEDa Luisa.pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/La
+    Merced.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/La
+    Nueva Esperanza.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/La
+    Oriental.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/La
+    Otomana.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/La
+    Pandorga.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/La
+    Paulina.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/La
+    Petrona.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/La
+    Ponderosa.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Laprida.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/La
+    Providencia.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/La
+    Reforma.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/La
+    Retranca.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Las
+    Armas.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/La
+    Saturna.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Las
+    Barrancas.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Las
+    Escobas.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Las
+    Gamas.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Las
+    Heras.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Las
+    Hermanas.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Las
+    Margaritas.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Las
+    Marinas.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Las
+    Martinetas.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Las
+    Nutrias.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Las
+    Parvas.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/La
+    Tigra.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Lazzarino.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Leguizam\xF3\
+    n.pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Lima.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Lincoln.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Lober\xED\
+    a.pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Lobos.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Lores.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Los
+    Alamos.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Los
+    Blancos.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Los
+    Indios.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Los
+    Leones.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Los
+    Mochos.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Los
+    Naranjos.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Los
+    Pinos.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Luis
+    Chico.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Magdalena.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Maip\xFA\
+    .pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Mal
+    Abrigo.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Manantiales.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Mar
+    Chiquita.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Mar
+    del Plata.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Mar\xED\
+    a Teresa.pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Mart\xED\
+    n Colman.pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Mascota.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Mechongu\xE9\
+    .pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/M\xE9\
+    danos.pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Membrillar.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Mercedes.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Micaela
+    Cascallares.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Mi\xF1\
+    ana.pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Molina.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Monsalvo.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Monte
+    La Plata.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Monte.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Moquehu\xE1\
+    .pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Morse.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Napaleof\xFA\
+    .pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Napost\xE1\
+    .pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Navarro.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Necochea.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Norumbega.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Nueva
+    Roma.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Nueve
+    de Julio.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/O\xB4\
+    Brien.pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Ochandio.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/O\xB4\
+    Higgins.pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Olascoaga.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Olavarr\xED\
+    a.pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Ombucta.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Orense.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Ortiz
+    de Rosas.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Ostende.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Paraje
+    Arenas Verdes.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Paraje\
+    \ Los \xC1ngeles.pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Patricios.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Payr\xF3\
+    .pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Pedro
+    Luro.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Pehuaj\xF3\
+    .pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Pergamino.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Peyrano.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Phajouap\xE9\
+    .pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Pichincha.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Piedritas.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Pieres.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Pig\xFC\
+    \xE9.pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Pila.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Pillahuinc\xF3\
+    .pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Pinamar.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Pipinas.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Pirovano.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Plomer.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Poblet.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Portela.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Puan.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Pueblitos.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Puente
+    Grande.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Puerto
+    Rosales.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Puesto
+    El Zorro.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Punta
+    Alta.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Punta
+    Indio.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Punta
+    Laberinto.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Punta\
+    \ M\xE9danos.pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Querand\xED\
+    es.pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Ramallo.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Ram\xF3\
+    n Santamarina.pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Rancagua.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Rancho
+    Grande.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Rauch.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Rawson.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Rinc\xF3\
+    n de L\xF3pez.pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/R\xED\
+    o Quequ\xE9n.pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/R\xED\
+    o Tala.pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Rojas.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Romero.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Rosales.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Saavedra.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Saboya.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Saforcada.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Saladillo.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Salazar.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Salinas
+    Chicas.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/San
+    Antonio.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/San
+    Cayetano.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/San
+    Clemente.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Sancti\
+    \ Sp\xEDritu.pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/San
+    Gabriel.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/San
+    Gregorio.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/San
+    Isidro.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/San\
+    \ Luis Beltr\xE1n.pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/San
+    Miguel.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/San
+    Pedro.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/San\
+    \ Sebasti\xE1n.pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Santa
+    Ana.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Santa
+    Isabel.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Santa\
+    \ Luc\xEDa.pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Santa
+    Luisa.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Santa
+    Paula.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Santa
+    Regina.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Santa
+    Rita.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Santa
+    Teresita.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/San
+    Vicente.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Sauce
+    Chico.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Segu\xED\
+    .pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Semillero
+    Buck.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Sierra
+    Chica.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Sierra
+    de los Padres.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Sol\xE1\
+    .pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Sol\xED\
+    s.pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Suipacha.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Tamanguey\xFA\
+    .pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Tambo
+    Nuevo.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Tandileof\xFA\
+    .pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Tandil.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Tatay.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Tecua.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Teniente
+    Origone.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Teodelina.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Tom\xE1\
+    s Jofr\xE9.pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Tornquist.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Tres
+    Arroyos.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Tres
+    Esquinas.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Tres
+    Lomas.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Tronconi.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Tuyut\xED\
+    .pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Udaondo.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Urquiza.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Valeria
+    del Mar.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Vedia.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Veinticinco
+    de Mayo.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: "https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Ver\xF3\
+    nica.pdf"
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Vichahuel.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Videla
+    Dorna.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Vidriera.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Vieytes.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Villa_Gesell.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Villa
+    Moll.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Villa
+    Roch.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Villa
+    Rossi.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Wheelwright.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Zanjones.pdf
+  encodingFormat: pdf
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/e54676c3-e30d-495a-9857-5389163ca05b/Zapiola.pdf
+  encodingFormat: pdf
+identifier: https://doi.org/10.5281/zenodo.6353509
+inLanguage:
+  '@type': Language
+  alternateName: spa
+  name: Spanish
+keywords:
+- Carta, Suelos, Buenos Aires
+license: https://creativecommons.org/licenses/by/4.0/legalcode
+name: "Cartas de Suelos Rep\xFAblica Argentina - Provincia de Buenos Aires"
+url: https://zenodo.org/record/6353509
+version: '1.0'

@@ -1,0 +1,11 @@
+'@context': https://schema.org
+'@type': BreadcrumbList
+itemListElement:
+- '@type': ListItem
+  item: https://developers.google.com/earth-engine/datasets
+  name: Earth Engine Data Catalog
+  position: 1
+- '@type': ListItem
+  item: https://developers.google.com/earth-engine/datasets/tags/soil
+  name: Datasets tagged soil in Earth Engine
+  position: 2

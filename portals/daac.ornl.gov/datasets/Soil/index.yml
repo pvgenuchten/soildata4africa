@@ -1,0 +1,695 @@
+'@context':
+  '@vocab': https://schema.org
+'@id': https://daac.ornl.gov/cgi-bin/dataset_lister.pl?p=19
+'@type': DataCatalog
+audience:
+  '@type': Audience
+  audienceType: public
+  name: General Public
+dataset:
+- '@type': Dataset
+  about:
+    '@type': WebPage
+    name: User Guide
+    url: daac.ornl.gov/SOILS/guides/West_Soil_Carbon.html
+  citation: West, T.O. 2014. Soil Carbon Estimates in 20-cm Layers to 1-meter Depth,
+    Conterminous US, 1970-1993. ORNL DAAC, Oak Ridge, Tennessee, USA. http://dx.doi.org/10.3334/ORNLDAAC/1238
+  datePublished: '2014-08-12'
+  description: "This data set provides a soil map with estimates of soil carbon (C)\
+    \ in g C/m2 for 20-cm layers from the surface to one meter depth for the conterminous\
+    \ United States.STATSGO v.1 (State Soil Geographic Database, Soil Survey Staff,\
+    \ 1994) data were used to estimate by 20-cm intervals to a 1-m depth the mean\
+    \ soil carbon for each of the STATSGO-delineated soil map units. These map units\
+    \ are the polygons represented in the provided Shapefile data product. \r\n"
+  identifier:
+    '@id': https://doi.org/10.3334/ORNLDAAC/1238
+    '@type': PropertyValue
+    name: 'DOI: 10.3334/ORNLDAAC/1238'
+    propertyId: https://registry.identifiers.org/registry/doi
+    url: https://doi.org/10.3334/ORNLDAAC/1238
+    value: doi:10.3334/ORNLDAAC/1238
+  name: Soil Carbon Estimates in 20-cm Layers to 1-meter Depth, Conterminous US, 1970-1993
+  url: daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=1238
+- '@type': Dataset
+  about:
+    '@type': WebPage
+    name: User Guide
+    url: daac.ornl.gov/SOILS/guides/SOIL_CO2_Flux_Costa_Rica.html
+  citation: Raich, J.W., and O.J. Valverde-Barrantes. 2017. Soil CO2 Flux, Moisture,
+    Temperature, and Litterfall, La Selva, Costa Rica, 2003-2010. ORNL DAAC, Oak Ridge,
+    Tennessee, USA. http://dx.doi.org/10.3334/ORNLDAAC/1373
+  datePublished: '2017-03-16'
+  description: This data set provides measurements of soil carbon dioxide (CO2) emission
+    rates, soil moisture, relative humidity (RH), temperature, and litterfall from
+    six types of tree plantations at the La Selva Biological Station, Costa Rica.
+    Soil CO2 flux and related measurements were made 1) hourly during 2-day diel field
+    campaigns and 2) as single daytime measurements during multiple survey campaigns,
+    over the period 2004-2010. All measurements were made at the same sites to compare
+    hourly, monthly, and inter-annual variations. Most of the emissions data represent
+    a single soil CO2 flux measurement, with three to five measurements per plot.
+    Litterfall was collected monthly from 2003-2009 and was sorted into fractions
+    prior to drying.
+  identifier:
+    '@id': https://doi.org/10.3334/ORNLDAAC/1373
+    '@type': PropertyValue
+    name: 'DOI: 10.3334/ORNLDAAC/1373'
+    propertyId: https://registry.identifiers.org/registry/doi
+    url: https://doi.org/10.3334/ORNLDAAC/1373
+    value: doi:10.3334/ORNLDAAC/1373
+  name: Soil CO2 Flux, Moisture, Temperature, and Litterfall, La Selva, Costa Rica,
+    2003-2010
+  url: daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=1373
+- '@type': Dataset
+  about:
+    '@type': WebPage
+    name: User Guide
+    url: daac.ornl.gov/SOILS/guides/IsricWiseGrids.html
+  citation: Batjes, N.H. 2000. Global Data Set of Derived Soil Properties, 0.5-Degree
+    Grid (ISRIC-WISE). ORNL DAAC, Oak Ridge, Tennessee, USA. http://dx.doi.org/10.3334/ORNLDAAC/546
+  datePublished: '2000-09-05'
+  description: 'The World Inventory of Soil Emission Potentials (WISE) database was
+    used to generate a series of uniform data sets of derived soil properties for
+    each of the 106 soil units considered in the Soil Map of the World. These data
+    sets were then used to generate GIS raster image files for the following variables:
+    total available water capacity (mm water per 1 m soil depth); soil organic carbon
+    density (kg C/m**2 for 0-30cm depth range); soil organic carbon density (kg C/m**2
+    for 0-100cm depth range); soil carbonate carbon density (kg C/m**2 for 0-100cm
+    depth range); soil pH (0-30 cm depth range); and soil pH (30-100 cm depth range).'
+  identifier:
+    '@id': https://doi.org/10.3334/ORNLDAAC/546
+    '@type': PropertyValue
+    name: 'DOI: 10.3334/ORNLDAAC/546'
+    propertyId: https://registry.identifiers.org/registry/doi
+    url: https://doi.org/10.3334/ORNLDAAC/546
+    value: doi:10.3334/ORNLDAAC/546
+  name: Global Data Set of Derived Soil Properties, 0.5-Degree Grid (ISRIC-WISE)
+  url: daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=546
+- '@type': Dataset
+  about:
+    '@type': WebPage
+    name: User Guide
+    url: daac.ornl.gov/SOILS/guides/IGBP-DIS.html
+  citation: Global Soil Data Task. 2014. Global Soil Data Products CD-ROM Contents
+    (IGBP-DIS). ORNL DAAC, Oak Ridge, Tennessee, USA. http://dx.doi.org/
+  datePublished: '2014-08-08'
+  description: This dataset contains global data on soil properties, global maps of
+    soil distributions, and the SoilData System developed by the International Geosphere-Biosphere
+    Programme Data and Information System (IGBP-DIS). These data were originally distributed
+    on CD-ROM, but are provided here as a single zip file. The SoilData System allows
+    users to generate soil information and maps for geographic regions at soil depths
+    and resolutions selected by the user. Derived surfaces of carbon density, nutrient
+    status, water-holding capacity, and heat capacity are provided for modeling and
+    inventory purposes.
+  identifier:
+    '@id': https://doi.org/10.3334/ORNLDAAC/565
+    '@type': PropertyValue
+    name: 'DOI: 10.3334/ORNLDAAC/565'
+    propertyId: https://registry.identifiers.org/registry/doi
+    url: https://doi.org/10.3334/ORNLDAAC/565
+    value: doi:10.3334/ORNLDAAC/565
+  name: 'Global Soil Data Products CD-ROM Contents (IGBP-DIS) '
+  url: daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=565
+- '@type': Dataset
+  about:
+    '@type': WebPage
+    name: User Guide
+    url: daac.ornl.gov/SOILS/guides/HWSD.html
+  citation: Wieder, W.R., J. Boehnert, G.B. Bonan, and M. Langseth. 2014. Regridded
+    Harmonized World Soil Database v1.2. ORNL DAAC, Oak Ridge, Tennessee, USA. http://dx.doi.org/10.3334/ORNLDAAC/1247
+  datePublished: '2014-09-18'
+  description: "This data set describes select global soil parameters from the Harmonized\
+    \ World Soil Database (HWSD) v1.2, including additional calculated parameters\
+    \ such as area weighted soil organic carbon (kg C per m2), as high resolution\
+    \ NetCDF files. These data were regridded and upscaled from the Harmonized World\
+    \ Soil Database v1.2 \r\n\r\nThe HWSD provides information for addressing emerging\
+    \ problems of land competition for food production, bio-energy demand and threats\
+    \ to biodiversity and can be used as input to model global carbon cycles. \r\n\
+    \r\nThe data are presented as a series of 27 NetCDF v3/v4 (*.nc4) files at 0.05-degree\
+    \ spatial resolution, and one NetCDF file regridded to the Community Land Model\
+    \ (CLM) grid cell resolution (0.9 degree x 1.25 degree) for the nominal year of\
+    \ 2000.\r\n"
+  identifier:
+    '@id': https://doi.org/10.3334/ORNLDAAC/1247
+    '@type': PropertyValue
+    name: 'DOI: 10.3334/ORNLDAAC/1247'
+    propertyId: https://registry.identifiers.org/registry/doi
+    url: https://doi.org/10.3334/ORNLDAAC/1247
+    value: doi:10.3334/ORNLDAAC/1247
+  name: Regridded Harmonized World Soil Database v1.2
+  url: daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=1247
+- '@type': Dataset
+  about:
+    '@type': WebPage
+    name: User Guide
+    url: daac.ornl.gov/SOILS/guides/Global_Phosphorus_Dist_Map.html
+  citation: Yang, X., W.M. Post, P.E. Thornton, and A.K. Jain. 2014. Global Gridded
+    Soil Phosphorus Distribution Maps at 0.5-degree Resolution. ORNL DAAC, Oak Ridge,
+    Tennessee, USA. http://dx.doi.org/10.3334/ORNLDAAC/1223
+  datePublished: '2014-06-04'
+  description: "This data set provides estimates of different forms of naturally occurring\
+    \ soil phosphorus (P) including labile inorganic P, organic P, occluded P, secondary\
+    \ mineral P, apatite P, and total P on a global scale at 0.5-degree resolution.\
+    \ \r\n\r\nThe data were assembled from chronosequence information and global spatial\
+    \ databases to develop a map of total soil P and the distribution among mineral\
+    \ bound, labile, organic, occluded, and secondary P forms in soils. Uncertainty\
+    \ was calculated for the different forms. The data set has no explicit temporal\
+    \ component -- data were nominally for the pre-industrial period ca. 1850.\r\n\
+    \r\nThe estimated global spatial variation and distribution of different soil\
+    \ P forms presented in this study will be useful for global biogeochemistry models\
+    \ that include P as a limiting element in biological production by providing initial\
+    \ estimates of the available soil P for plant uptake and microbial utilization\
+    \ (Yang et al., 2013).\r\n\r\nThere is one netCDF data file (.nc) with this data\
+    \ set. \r\n"
+  identifier:
+    '@id': https://doi.org/10.3334/ORNLDAAC/1223
+    '@type': PropertyValue
+    name: 'DOI: 10.3334/ORNLDAAC/1223'
+    propertyId: https://registry.identifiers.org/registry/doi
+    url: https://doi.org/10.3334/ORNLDAAC/1223
+    value: doi:10.3334/ORNLDAAC/1223
+  name: Global Gridded Soil Phosphorus Distribution Maps at 0.5-degree Resolution
+  url: daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=1223
+- '@type': Dataset
+  about:
+    '@type': WebPage
+    name: User Guide
+    url: daac.ornl.gov/SOILS/guides/WebbRosenzweig.html
+  citation: Webb, R., C.E. Rosenzweig, and E.R. Levine. 2000. Global Soil Texture
+    and Derived Water-Holding Capacities (Webb et al.). ORNL DAAC, Oak Ridge, Tennessee,
+    USA. http://dx.doi.org/10.3334/ORNLDAAC/548
+  datePublished: '2000-09-05'
+  description: A standardized global data set of soil horizon thicknesses and textures
+    (particle size distributions).
+  identifier:
+    '@id': https://doi.org/10.3334/ORNLDAAC/548
+    '@type': PropertyValue
+    name: 'DOI: 10.3334/ORNLDAAC/548'
+    propertyId: https://registry.identifiers.org/registry/doi
+    url: https://doi.org/10.3334/ORNLDAAC/548
+    value: doi:10.3334/ORNLDAAC/548
+  name: 'Global Soil Texture and Derived Water-Holding Capacities (Webb et al.) '
+  url: daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=548
+- '@type': Dataset
+  about:
+    '@type': WebPage
+    name: User Guide
+    url: daac.ornl.gov/SOILS/guides/SRDB_V5.html
+  citation: Jian, J., R. Vargas, K.J. Anderson-Teixeira, E. Stell, V. Herrmann, M.
+    Horn, N. Kholod, J. Manzon, R. Marchesi, D. Paredes, and B.P. Bond-Lamberty. 2021.
+    A Global Database of Soil Respiration Data, Version 5.0. ORNL DAAC, Oak Ridge,
+    Tennessee, USA. https://doi.org/10.3334/ORNLDAAC/1827
+  datePublished: '2021-02-28'
+  description: 'The Soil Respiration Database (SRDB) is a near-universal compendium
+    of published soil respiration (Rs) data. The database encompasses published studies
+    that report at least one of the following data measured in the field (not laboratory):
+    annual soil respiration, mean seasonal soil respiration, a seasonal or annual
+    partitioning of soil respiration into its source fluxes, soil respiration temperature
+    response (Q10), or soil respiration at 10 degrees C. The SRDB''s orientation is
+    to seasonal and annual fluxes, not shorter-term or chamber-specific measurements,
+    and the database is dominated by temperate, well-drained forest measurement locations.
+    Version 5 (V5) is the compilation of 2,266 published studies with measurements
+    taken between 1961-2017. V5 features more soil respiration data published in Russian
+    and Chinese scientific literature for better global spatio-temporal coverage and
+    improved global climate-space representation. The database is also restructured
+    to have better interoperability with other datasets related to carbon-cycle science.'
+  identifier:
+    '@id': https://doi.org/10.3334/ORNLDAAC/1827
+    '@type': PropertyValue
+    name: 'DOI: 10.3334/ORNLDAAC/1827'
+    propertyId: https://registry.identifiers.org/registry/doi
+    url: https://doi.org/10.3334/ORNLDAAC/1827
+    value: doi:10.3334/ORNLDAAC/1827
+  name: A Global Database of Soil Respiration Data, Version 5.0
+  url: daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=1827
+- '@type': Dataset
+  about:
+    '@type': WebPage
+    name: User Guide
+    url: daac.ornl.gov/SOILS/guides/Thermokarst_Circumpolar_Map.html
+  citation: Olefeldt, D., S. Goswami, G. Grosse, D.J. Hayes, G. Hugelius, P. Kuhry,
+    B. Sannel, E.A.G. Schuur, and M.R. Turetsky. 2016. Arctic Circumpolar Distribution
+    and Soil Carbon of Thermokarst Landscapes, 2015. ORNL DAAC, Oak Ridge, Tennessee,
+    USA. http://dx.doi.org/10.3334/ORNLDAAC/1332
+  datePublished: '2016-08-24'
+  description: This data set provides the distribution of thermokarst landscapes in
+    the boreal and tundra ecoregions within the northern circumpolar permafrost zones.
+    This dataset provides an areal estimate of wetland, lake, and hillslope thermokarst
+    landscapes as of 2015. Estimates of soil organic carbon (SOC) content associated
+    with thermokarst and non-thermokarst landscapes were based on available circumpolar
+    0 to 3 meter SOC storage data.
+  identifier:
+    '@id': https://doi.org/10.3334/ORNLDAAC/1332
+    '@type': PropertyValue
+    name: 'DOI: 10.3334/ORNLDAAC/1332'
+    propertyId: https://registry.identifiers.org/registry/doi
+    url: https://doi.org/10.3334/ORNLDAAC/1332
+    value: doi:10.3334/ORNLDAAC/1332
+  name: Arctic Circumpolar Distribution and Soil Carbon of Thermokarst Landscapes,
+    2015
+  url: daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=1332
+- '@type': Dataset
+  about:
+    '@type': WebPage
+    name: User Guide
+    url: daac.ornl.gov/SOILS/guides/Peatland_carbon_balance.html
+  citation: Stocker, B.D., Z. Yu, C. Massa, and F. Joos. 2017. Global Peatland Carbon
+    Balance and Land Use Change CO2 Emissions Through the Holocene. ORNL DAAC, Oak
+    Ridge, Tennessee, USA. https://doi.org/10.3334/ORNLDAAC/1382
+  datePublished: '2017-05-04'
+  description: This data set provides a time series of global peatland carbon balance
+    and carbon dioxide emissions from land use change throughout the Holocene (the
+    past 11,000 yrs). Global peatland carbon balance was quantified using a) a continuous
+    net carbon balance history throughout the Holocene derived from a data set of
+    64 dated peat cores, and b) global model simulations with the LPX-Bern model hindcasting
+    the dynamics of past peatland distribution and carbon balance. CO2 emissions from
+    land-use change are based on published scenarios for anthropogenic land use change
+    (HYDE 3.1, HYDE 3.2, KK10) covering the last 10,000 years. This combination of
+    model estimates with CO2 budget constraints narrows the range of past anthropogenic
+    land use change emissions and their contribution to past carbon cycle changes.
+  identifier:
+    '@id': https://doi.org/10.3334/ORNLDAAC/1382
+    '@type': PropertyValue
+    name: 'DOI: 10.3334/ORNLDAAC/1382'
+    propertyId: https://registry.identifiers.org/registry/doi
+    url: https://doi.org/10.3334/ORNLDAAC/1382
+    value: doi:10.3334/ORNLDAAC/1382
+  name: Global Peatland Carbon Balance and Land Use Change CO2 Emissions Through the
+    Holocene
+  url: daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=1382
+- '@type': Dataset
+  about:
+    '@type': WebPage
+    name: User Guide
+    url: daac.ornl.gov/SOILS/guides/Global_Microbial_Biomass_C_N_P.html
+  citation: Xu, X., P.E. Thornton, and P. Potapov. 2014. A Compilation of Global Soil
+    Microbial Biomass Carbon, Nitrogen, and Phosphorus Data. ORNL DAAC, Oak Ridge,
+    Tennessee, USA. http://dx.doi.org/10.3334/ORNLDAAC/1264
+  datePublished: '2015-01-12'
+  description: "This data set provides the concentrations of soil microbial biomass\
+    \ carbon (C), nitrogen (N) and phosphorus (P), soil organic carbon, total nitrogen,\
+    \ and total phosphorus at biome and global scales. The data were compiled from\
+    \ a comprehensive survey of publications from the late 1970s to 2012 and include\
+    \ 3,422 data points from 315 papers. These data are from soil samples collected\
+    \ primarily at 0-15 cm depth with some from 0-30 cm. In addition, data were compiled\
+    \ for soil microbial biomass concentrations from soil profile samples to depths\
+    \ of 100 cm. \r\n\r\nSampling site latitude and longitude were available for the\
+    \ majority of the samples that enabled assembling additional soil properties,\
+    \ site characteristics, vegetation distributions, biomes, and long-term climate\
+    \ data from several global sources of soil, land-cover, and climate data. These\
+    \ site attributes are included with the microbial biomass data. \r\n\r\nThis data\
+    \ set contains two *.csv files of the soil microbial biomass C, N, P data. The\
+    \ first provides all compiled results emphasizing the full spatial extent of the\
+    \ data, while the second is a subset that provides only data from a series of\
+    \ profile samples emphasizing the vertical distribution of microbial biomass concentrations.\r\
+    \n\r\nThere is a companion file, also in .csv format, of the references for the\
+    \ surveyed publications. A reference_number relates the data to the respective\
+    \ publication.\r\n\r\nThe concentrations of soil microbial biomass, in combination\
+    \ with other soil databases, were used to estimate the global storage of soil\
+    \ microbial biomass C and N in 0-30 cm and 0-100 cm soil profiles. These storage\
+    \ estimates were combined with a spatial map of 12 major biomes (boreal forest,\
+    \ temperate coniferous forest, temperate broadleaf forest, tropical and subtropical\
+    \ forests, mixed forest, grassland, shrub, tundra, desert, natural wetland, cropland,\
+    \ and pasture) at 0.05-degree by 0.5-degree spatial resolution. The biome map\
+    \ and six estimates of C and N storage and C:N ration in soil microbial biomass\
+    \ are provided in a single netCDF format file. \r\n"
+  identifier:
+    '@id': https://doi.org/10.3334/ORNLDAAC/1264
+    '@type': PropertyValue
+    name: 'DOI: 10.3334/ORNLDAAC/1264'
+    propertyId: https://registry.identifiers.org/registry/doi
+    url: https://doi.org/10.3334/ORNLDAAC/1264
+    value: doi:10.3334/ORNLDAAC/1264
+  name: 'A Compilation of Global Soil Microbial Biomass Carbon, Nitrogen, and Phosphorus
+    Data '
+  url: daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=1264
+- '@type': Dataset
+  about:
+    '@type': WebPage
+    name: User Guide
+    url: daac.ornl.gov/SOILS/guides/Global_Hydrologic_Soil_Group.html
+  citation: Ross, C.W., L. Prihodko, J.Y. Anchang, S.S. Kumar, W. Ji, and N.P. Hanan.
+    2018. Global Hydrologic Soil Groups (HYSOGs250m) for Curve Number-Based Runoff
+    Modeling. ORNL DAAC, Oak Ridge, Tennessee, USA. https://doi.org/10.3334/ORNLDAAC/1566
+  datePublished: '2018-03-21'
+  description: This dataset - HYSOGs250m - represents a globally consistent, gridded
+    dataset of hydrologic soil groups (HSGs) with a geographical resolution of 1/480
+    decimal degrees, corresponding to a projected resolution of approximately 250-m.
+    These data were developed to support USDA-based curve-number runoff modeling at
+    regional and continental scales. Classification of HSGs was derived from soil
+    texture classes and depth to bedrock provided by the Food and Agriculture Organization
+    soilGrids250m system.
+  identifier:
+    '@id': https://doi.org/10.3334/ORNLDAAC/1566
+    '@type': PropertyValue
+    name: 'DOI: 10.3334/ORNLDAAC/1566'
+    propertyId: https://registry.identifiers.org/registry/doi
+    url: https://doi.org/10.3334/ORNLDAAC/1566
+    value: doi:10.3334/ORNLDAAC/1566
+  name: Global Hydrologic Soil Groups (HYSOGs250m) for Curve Number-Based Runoff Modeling
+  url: daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=1566
+- '@type': Dataset
+  about:
+    '@type': WebPage
+    name: User Guide
+    url: daac.ornl.gov/SOILS/guides/ZinkeSoil.html
+  citation: Zinke, P.J., A.G. Stangenberger, W.M. Post, W.R. Emanuel, and J.S. Olson.
+    1998. Global Organic Soil Carbon and Nitrogen (Zinke et al.) . ORNL DAAC, Oak
+    Ridge, Tennessee, USA. http://dx.doi.org/10.3334/ORNLDAAC/221
+  datePublished: '1998-11-10'
+  description: A compilation of worldwide soil carbon and nitrogen data for more than
+    3500 soil profiles.
+  identifier:
+    '@id': https://doi.org/10.3334/ORNLDAAC/221
+    '@type': PropertyValue
+    name: 'DOI: 10.3334/ORNLDAAC/221'
+    propertyId: https://registry.identifiers.org/registry/doi
+    url: https://doi.org/10.3334/ORNLDAAC/221
+    value: doi:10.3334/ORNLDAAC/221
+  name: 'Global Organic Soil Carbon and Nitrogen (Zinke et al.) '
+  url: daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=221
+- '@type': Dataset
+  about:
+    '@type': WebPage
+    name: User Guide
+    url: daac.ornl.gov/SOILS/guides/IsricWise.html
+  citation: Batjes, N.H. 2000. Global Soil Profile Data (ISRIC-WISE). ORNL DAAC, Oak
+    Ridge, Tennessee, USA. http://dx.doi.org/10.3334/ORNLDAAC/547
+  datePublished: '2000-09-05'
+  description: The ISRIC-WISE International soil profile data set consists of a homogenized,
+    global set of 1,125 soil profiles for use by global modelers. These profiles provided
+    the basis for the Global Pedon Database (GPDB) of the International Geosphere-Biosphere
+    Programme (IGBP) - Data and Information System (DIS). The data set includes information
+    on soil classification, site data, soil horizon data, source of data, and methods
+    used for determining analytical data.
+  identifier:
+    '@id': https://doi.org/10.3334/ORNLDAAC/547
+    '@type': PropertyValue
+    name: 'DOI: 10.3334/ORNLDAAC/547'
+    propertyId: https://registry.identifiers.org/registry/doi
+    url: https://doi.org/10.3334/ORNLDAAC/547
+    value: doi:10.3334/ORNLDAAC/547
+  name: Global Soil Profile Data (ISRIC-WISE)
+  url: daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=547
+- '@type': Dataset
+  about:
+    '@type': WebPage
+    name: User Guide
+    url: daac.ornl.gov/SOILS/guides/Global_Soil_Regolith_Sediment.html
+  citation: Pelletier, J.D., P.D. Broxton, P. Hazenberg, X. Zeng, P.A. Troch, G. Niu,
+    Z.C. Williams, M.A. Brunke, and D. Gochis. 2016. Global 1-km Gridded Thickness
+    of Soil, Regolith, and Sedimentary Deposit Layers. ORNL DAAC, Oak Ridge, Tennessee,
+    USA. http://dx.doi.org/10.3334/ORNLDAAC/1304
+  datePublished: '2016-02-03'
+  description: This data set provides high-resolution estimates of the thickness of
+    the permeable layers above bedrock (soil, regolith, and sedimentary deposits)
+    within a global 30-arcsecond (~1-km) grid using the best available data for topography,
+    climate, and geology as input. These data are modeled to represent estimated thicknesses
+    by landform type for the geological present.
+  identifier:
+    '@id': https://doi.org/10.3334/ORNLDAAC/1304
+    '@type': PropertyValue
+    name: 'DOI: 10.3334/ORNLDAAC/1304'
+    propertyId: https://registry.identifiers.org/registry/doi
+    url: https://doi.org/10.3334/ORNLDAAC/1304
+    value: doi:10.3334/ORNLDAAC/1304
+  name: Global 1-km Gridded Thickness of Soil, Regolith, and Sedimentary Deposit Layers
+  url: daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=1304
+- '@type': Dataset
+  about:
+    '@type': WebPage
+    name: User Guide
+    url: daac.ornl.gov/SOILS/guides/TopSoil_Erosion_MidWest_US.html
+  citation: Thaler, E., I. Larsen, and Q. Yu. 2020. Remote Sensing Derived Topsoil
+    and Agricultural Economic Losses, Midwestern USA. ORNL DAAC, Oak Ridge, Tennessee,
+    USA. https://doi.org/10.3334/ORNLDAAC/1774
+  datePublished: '2020-05-07'
+  description: This dataset provides estimates of topsoil loss and economic loss associated
+    with decreased crop productivity resulting from topsoil loss at county- and state-levels
+    across the Corn Belt region of the Midwestern USA. Intermediate products used
+    to derive topsoil loss are provided and include 4 m gridded estimates of study
+    sites elevation, curvature, slope, soil organic carbon index (SOCI), and the probability
+    of exposed B-horizon soil. Topsoil loss at the county- and state-levels was derived
+    from analyses of agricultural land at selected sites across the study area. From
+    WorldView imagery, 759 fields were identified that had exposed bare soil (210
+    km2) and were grouped into 28 sites. Gridded estimates of the SOCI and of the
+    probability of exposed B-horizon soil were determined for each field within the
+    sites. Topography measures, including elevation (m), curvature (m-1), and slope
+    (deg), were extracted over the entire study area from LiDAR-derived digital elevation
+    models at a 4 m resolution acquired from 2003-2018. Within each of the 28 study
+    sites, the SOCI and topographic curvature values were extracted from co-located
+    pixels. Topsoil loss was estimated from the relationship between subsoil exposure
+    and topography and averaged across each site.The relationship between topsoil
+    loss and topographic curvature was used to up-scale and predict topsoil and economic
+    losses at the county and state-levels across the entire 375,000 km2 study area.
+    The data have been used to demonstrate a robust and scalable method for estimating
+    the magnitude of erosion in agricultural landscapes.
+  identifier:
+    '@id': https://doi.org/10.3334/ORNLDAAC/1774
+    '@type': PropertyValue
+    name: 'DOI: 10.3334/ORNLDAAC/1774'
+    propertyId: https://registry.identifiers.org/registry/doi
+    url: https://doi.org/10.3334/ORNLDAAC/1774
+    value: doi:10.3334/ORNLDAAC/1774
+  name: Remote Sensing Derived Topsoil and Agricultural Economic Losses, Midwestern
+    USA
+  url: daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=1774
+- '@type': Dataset
+  about:
+    '@type': WebPage
+    name: User Guide
+    url: daac.ornl.gov/SOILS/guides/ZoblerSoil.html
+  citation: Zobler, L. 1999. Global Soil Types, 1-Degree Grid (Zobler). ORNL DAAC,
+    Oak Ridge, Tennessee, USA. http://dx.doi.org/10.3334/ORNLDAAC/418
+  datePublished: '1999-05-05'
+  description: A global digital data base of soil properties is available at 1 degree
+    longitude resolution.  For each land cell, the data base includes major and associated
+    soil units, surface texture, and slope; phase and miscellaneous land units are
+    included where available. The data base was compiled as part of an effort to improve
+    modeling of the hydrologic cycle in the GISS Genreal Circulation Model.
+  identifier:
+    '@id': https://doi.org/10.3334/ORNLDAAC/418
+    '@type': PropertyValue
+    name: 'DOI: 10.3334/ORNLDAAC/418'
+    propertyId: https://registry.identifiers.org/registry/doi
+    url: https://doi.org/10.3334/ORNLDAAC/418
+    value: doi:10.3334/ORNLDAAC/418
+  name: Global Soil Types, 1-Degree Grid (Zobler)
+  url: daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=418
+- '@type': Dataset
+  about:
+    '@type': WebPage
+    name: User Guide
+    url: daac.ornl.gov/SOILS/guides/Global_Phosphorus_Hedley_Fract.html
+  citation: Yang, X., W.M. Post, P.E. Thornton, and A.K. Jain. 2014. A Global Database
+    of Soil Phosphorus Compiled from Studies Using Hedley Fractionation. ORNL DAAC,
+    Oak Ridge, Tennessee, USA. http://dx.doi.org/10.3334/ORNLDAAC/1230
+  datePublished: '2014-07-18'
+  description: "This data set provides concentrations of soil phosphorus (P) compiled\
+    \ from the peer-reviewed literature that cited the Hedley fractionation method\
+    \ (Hedley and Stewart, 1982). This database contains estimates of different forms\
+    \ of naturally occurring soil phosphorus, including labile inorganic P, organic\
+    \ P, occluded P, secondary mineral P, apatite P, and total P, based on the analyses\
+    \ of the various Hedley soil fractions.\r\n\r\nThe recent literature survey (Yang\
+    \ and Post, 2011) was restricted to studies of natural, unfertilized, and uncultivated\
+    \ soils since 1995. Ninety measurements of soil P fractions were identified. These\
+    \ were added to the 88 values from soils in natural ecosystems that Cross and\
+    \ Schlesinger (1995) had compiled. Cross and Schlesinger provided a comprehensive\
+    \ survey on Hedley P data prior to 1995. Measurement data are provided for studies\
+    \ published from 1985 through 2010. \r\n\r\nIn addition to the Hedley P fraction\
+    \ measurement data Yang and Post (2011) also compiled information on soil order,\
+    \ soil pH, organic carbon and nitrogen content, as well as the geographic location\
+    \ (longitude and latitude) of the measurement sites. \r\n"
+  identifier:
+    '@id': https://doi.org/10.3334/ORNLDAAC/1230
+    '@type': PropertyValue
+    name: 'DOI: 10.3334/ORNLDAAC/1230'
+    propertyId: https://registry.identifiers.org/registry/doi
+    url: https://doi.org/10.3334/ORNLDAAC/1230
+    value: doi:10.3334/ORNLDAAC/1230
+  name: A Global Database of Soil Phosphorus Compiled from Studies Using Hedley Fractionation
+  url: daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=1230
+- '@type': Dataset
+  about:
+    '@type': WebPage
+    name: User Guide
+    url: daac.ornl.gov/SOILS/guides/Global_RTSG_Flux.html
+  citation: Kim, D.-G., R. Vargas, B.P. Bond-Lamberty, and M.R. Turetsky. 2012. A
+    Global Database of Gas Fluxes from Soils after Rewetting or Thawing, Version 1.0.
+    ORNL DAAC, Oak Ridge, Tennessee, USA. http://dx.doi.org/10.3334/ORNLDAAC/1078
+  datePublished: '2012-04-16'
+  description: 'This database contains information compiled from published studies
+    on gas flux from soil following rewetting or thawing. The resulting database includes
+    222 field and laboratory observations focused on rewetting of dry soils, and 116
+    field laboratory observations focused on thawing of frozen soils studies conducted
+    from 1956 to 2010. Fluxes of carbon dioxide, methane, nitrous oxide, nitrogen
+    oxide, and ammonia (CO2, CH4, N2O, NO and NH3) were compiled from the literature
+    and the flux rates were normalized for ease of comparison. Field observations
+    of gas flux following rewetting of dry soils include events caused by natural
+    rainfall, simulated rainfall in natural ecosystems, and irrigation in agricultural
+    lands. Similarly, thawing of frozen soils include field observations of natural
+    thawing, simulated freezing-thawing events (i.e., thawing of simulated frozen
+    soil by snow removal), and thawing of seasonal ice in temperate and high latitude
+    regions (Kim et al., 2012). Reported parameters include experiment type, location,
+    site type, vegetation, climate, soil properties, rainfall, soil moisture, soil
+    gas flux after wetting and thawing, peak soil gas flux properties, and the corresponding
+    study references. There is one comma-delimited data file. '
+  identifier:
+    '@id': https://doi.org/10.3334/ORNLDAAC/1078
+    '@type': PropertyValue
+    name: 'DOI: 10.3334/ORNLDAAC/1078'
+    propertyId: https://registry.identifiers.org/registry/doi
+    url: https://doi.org/10.3334/ORNLDAAC/1078
+    value: doi:10.3334/ORNLDAAC/1078
+  name: A Global Database of Gas Fluxes from Soils after Rewetting or Thawing, Version
+    1.0
+  url: daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=1078
+- '@type': Dataset
+  about:
+    '@type': WebPage
+    name: User Guide
+    url: daac.ornl.gov/SOILS/guides/ZoblerSoilDerived.html
+  citation: Post, W.M., and L. Zobler. 2000. Global Soil Types, 0.5-Degree Grid (Modified
+    Zobler). ORNL DAAC, Oak Ridge, Tennessee, USA. http://dx.doi.org/10.3334/ORNLDAAC/540
+  datePublished: '2000-05-19'
+  description: A global data set of soil types is available at 0.5-degree latitude
+    by 0.5-degree longitude resolution. There are 106 soil units, based on Zobler's
+    (1986) assessment of the FAO/UNESCO Soil Map of the World. This data set is a
+    conversion of the Zobler 1-degree resolution version to a 0.5-degree resolution.
+  identifier:
+    '@id': https://doi.org/10.3334/ORNLDAAC/540
+    '@type': PropertyValue
+    name: 'DOI: 10.3334/ORNLDAAC/540'
+    propertyId: https://registry.identifiers.org/registry/doi
+    url: https://doi.org/10.3334/ORNLDAAC/540
+    value: doi:10.3334/ORNLDAAC/540
+  name: Global Soil Types, 0.5-Degree Grid (Modified Zobler)
+  url: daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=540
+- '@type': Dataset
+  about:
+    '@type': WebPage
+    name: User Guide
+    url: daac.ornl.gov/SOILS/guides/IGBP-SurfaceProducts.html
+  citation: Global Soil Data Task Group. 2000. Global Gridded Surfaces of Selected
+    Soil Characteristics (IGBP-DIS) . ORNL DAAC, Oak Ridge, Tennessee, USA. http://dx.doi.org/10.3334/ORNLDAAC/569
+  datePublished: '2000-12-20'
+  description: Global data-surfaces pre-generated by  SoilData, at a resolution of
+    5x5 arc-minutes, in ASCII GRID format for ARC INFO, and for the soil depth interval
+    0-100 cm.
+  identifier:
+    '@id': https://doi.org/10.3334/ORNLDAAC/569
+    '@type': PropertyValue
+    name: 'DOI: 10.3334/ORNLDAAC/569'
+    propertyId: https://registry.identifiers.org/registry/doi
+    url: https://doi.org/10.3334/ORNLDAAC/569
+    value: doi:10.3334/ORNLDAAC/569
+  name: 'Global Gridded Surfaces of Selected Soil Characteristics (IGBP-DIS) '
+  url: daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=569
+- '@type': Dataset
+  about:
+    '@type': WebPage
+    name: User Guide
+    url: daac.ornl.gov/SOILS/guides/Respiration.html
+  citation: Raich, J.W., and W.H. Schlesinger. 2001. Global Annual Soil Respiration
+    Data (Raich and Schlesinger 1992). ORNL DAAC, Oak Ridge, Tennessee, USA. http://dx.doi.org/10.3334/ORNLDAAC/622
+  datePublished: '2001-12-06'
+  description: This data set is a compilation of soil respiration rates (g C m-2 yr-1)
+    from terrestrial and wetland ecosystems reported in the literature prior to 1992.
+    These rates were measured in a variety of ecosystems to examine rates of microbial
+    activity, nutrient turnover, carbon cycling, root dynamics, and a variety of other
+    soil processes. Also included in the data set are biome type, vegetation type,
+    locality, and geographic coordinates.
+  identifier:
+    '@id': https://doi.org/10.3334/ORNLDAAC/622
+    '@type': PropertyValue
+    name: 'DOI: 10.3334/ORNLDAAC/622'
+    propertyId: https://registry.identifiers.org/registry/doi
+    url: https://doi.org/10.3334/ORNLDAAC/622
+    value: doi:10.3334/ORNLDAAC/622
+  name: 'Global Annual Soil Respiration Data (Raich and Schlesinger 1992) '
+  url: daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=622
+- '@type': Dataset
+  about:
+    '@type': WebPage
+    name: User Guide
+    url: daac.ornl.gov/SOILS/guides/Dunne.html
+  citation: Dunne, K.A., and C.J. Willmott. 2000. Global Distribution of Plant-Extractable
+    Water Capacity of Soil (Dunne). ORNL DAAC, Oak Ridge, Tennessee, USA. http://dx.doi.org/10.3334/ORNLDAAC/545
+  datePublished: '2000-08-18'
+  description: Plant-extractable water capacity of soil is the amount of water that
+    can be extracted from the soil to fulfill evapotranspiration demands. This data
+    set provides an estimate of the global distribution of plant-extractable water
+    capacity of soil.
+  identifier:
+    '@id': https://doi.org/10.3334/ORNLDAAC/545
+    '@type': PropertyValue
+    name: 'DOI: 10.3334/ORNLDAAC/545'
+    propertyId: https://registry.identifiers.org/registry/doi
+    url: https://doi.org/10.3334/ORNLDAAC/545
+    value: doi:10.3334/ORNLDAAC/545
+  name: 'Global Distribution of Plant-Extractable Water Capacity of Soil (Dunne) '
+  url: daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=545
+- '@type': Dataset
+  about:
+    '@type': WebPage
+    name: User Guide
+    url: daac.ornl.gov/SOILS/guides/Mid-latitude_soils.html
+  citation: Cryosol Working Group. 2014. Northern and Mid-Latitude Soil Database,
+    Version 1, R1. ORNL DAAC, Oak Ridge, Tennessee, USA. http://dx.doi.org/10.3334/ORNLDAAC/705
+  datePublished: '2014-08-18'
+  description: 'The U.S. Department of Agriculture, Agriculture and Agri-Food Canada,
+    the Russian Academy of Agricultural Sciences, the University of Copenhagen Institute
+    of Geography, the European Soil Bureau, the University of Manchester Institute
+    of Landscape Ecology, MTT Agrifood Research Finland, and the Agricultural Research
+    Institute Iceland have shared data and expertise in order to develop the Northern
+    and Mid Latitude Soil Database (Cryosol Working Group, 2001). This database was
+    the source of data for the current product. The spatial coverage of the Northern
+    and Mid Latitude Soil Database is the polar and mid-latitude regions of the northern
+    hemisphere: Alaska, Canada, Conterminous United States, Eurasia (except Italy),
+    Greenland, Iceland, Kazakstan, Mexico, Mongolia, Italy, and Svalbard. The Northern
+    and Mid-Latitude Soil Database represents the proportion (percentage) of polygon
+    encompassed by the dominant soil or nonsoil. Soils include turbels, orthels, histels,
+    histosols, mollisols, vertisols, aridisols, andisols, entisols, spodosols, inceptisols
+    (and hapludolls), alfisols (cryalf and udalf), natric great groups, aqu-suborders,
+    glaciers, and rocklands. Also included are data on the circumpolar distribution
+    of gelisols (turbels, orthels, and histels), and the ice content (low, medium,
+    or high) of circumpolar soil materials (from the International Permafrost Association,
+    1997). The resulting maps show the dominant soil of the spatial polygon unless
+    the polygon is over 90 percent rock or ice. Data are in the U.S. soil classification
+    system and includes the distribution of soil types (%) within a map unit (polygon).
+    Data are available in ESRI shapefile format and include the same attribute values
+    with the exception of Italy, which does not contain distribution values.'
+  identifier:
+    '@id': https://doi.org/10.3334/ORNLDAAC/705
+    '@type': PropertyValue
+    name: 'DOI: 10.3334/ORNLDAAC/705'
+    propertyId: https://registry.identifiers.org/registry/doi
+    url: https://doi.org/10.3334/ORNLDAAC/705
+    value: doi:10.3334/ORNLDAAC/705
+  name: Northern and Mid-Latitude Soil Database, Version 1, R1
+  url: daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=705
+description: The ORNL DAAC archives data on the biogeochemistry, physical, and chemical
+  properties of soils. The data range from local-scale studies to gridded global products.
+isAccessibleForFree: 'true'
+name: Soil
+provider:
+  '@type': Organization
+  logo: daac.ornl.gov/daac_logo.png
+  name: ORNL DAAC
+  url: daac.ornl.gov
+publisher:
+  '@type': Organization
+  contactPoint:
+    '@type': ContactPoint
+    contactType: customer support
+    email: uso@daac.ornl.gov
+    name: ORNL DAAC User Support Office
+    telephone: '+18652413952'
+  logo: daac.ornl.gov/daac_logo.png
+  name: ORNL DAAC
+  url: daac.ornl.gov
+sourceOrganization:
+  '@type': Organization
+  logo: daac.ornl.gov/daac_logo.png
+  name: ORNL DAAC
+  url: daac.ornl.gov
+url: https://daac.ornl.gov/cgi-bin/dataset_lister.pl?p=19

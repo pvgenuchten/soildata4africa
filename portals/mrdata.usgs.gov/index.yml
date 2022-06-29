@@ -1,0 +1,9 @@
+abstract: null
+contact:
+  email: ''
+  name: ''
+  organisation: ''
+identifier: mrdata.usgs.gov
+license: ''
+name: 'National [USA] Geochemical Database: Soil'
+url: https://mrdata.usgs.gov/ngdb/soil/

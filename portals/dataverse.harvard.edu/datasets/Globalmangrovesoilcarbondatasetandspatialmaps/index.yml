@@ -1,0 +1,119 @@
+'@context': http://schema.org
+'@id': https://doi.org/10.7910/DVN/OCYUIT
+'@type': Dataset
+author:
+- affiliation: (Woods Hole Research Center)
+  name: Sanderman, Jonathan
+citation:
+- '@type': CreativeWork
+  text: 'Sanderman J, Hengl T, Fiske G et al. (2018) A global map of mangrove forest
+    soil carbon at 30 m spatial resolution. Environmental Research Letters 13: 055002.
+    doi: 10.1088/1748-9326/aabe1c'
+creator:
+- affiliation: (Woods Hole Research Center)
+  name: Sanderman, Jonathan
+dateModified: '2019-01-02'
+datePublished: '2017-06-28'
+description:
+- 'Jan 2, 2018 -- Mangrove soil carbon database updated to include reported and calculated
+  bulk density and OC values. Model outputs were updated on Dec 20, 2017. This project
+  used a machine learning data-driven model to predict the distribution of soil carbon
+  under mangrove forests globally. Specifically this dataset contains: 1) a compilation
+  of georeferenced and harmonized soil profile data under mangroves compiled from
+  literature, reports and unpublished contributions 2) global mosaics of soil carbon
+  stocks to 1m and 2m depths produced at 100 m resolution 3) tiled predictions of
+  soil carbon stocks produced at 30 m resolution 4) shape file containing the tiling
+  system 5) shape file containing country boundaries used for calculating national
+  level statistics 30m data can be quickly visualized at: https://storage.googleapis.com/gfiske1/global_mangrove/index_w_slider.html'
+distribution:
+- '@id': https://doi.org/10.7910/DVN/OCYUIT/BY6SFR
+  '@type': DataDownload
+  contentSize: 398668391
+  contentUrl: https://dataverse.harvard.edu/api/access/datafile/3092476
+  description: zipped folder with all individual tiles of 30m resolution SOC stocks
+    to 1m depth
+  fileFormat: application/zip
+  identifier: https://doi.org/10.7910/DVN/OCYUIT/BY6SFR
+  name: Mangroves_SOCS_0_100cm_30m.zip
+- '@id': https://doi.org/10.7910/DVN/OCYUIT/VHYLAC
+  '@type': DataDownload
+  contentSize: 83
+  contentUrl: https://dataverse.harvard.edu/api/access/datafile/3092477
+  fileFormat: text/plain; charset=US-ASCII
+  identifier: https://doi.org/10.7910/DVN/OCYUIT/VHYLAC
+  name: mSOC_Dec_2017_100m.tfw
+- '@id': https://doi.org/10.7910/DVN/OCYUIT/BSSIA3
+  '@type': DataDownload
+  contentSize: 757609733
+  contentUrl: https://dataverse.harvard.edu/api/access/datafile/3092478
+  description: 100m resolution global map of mangrove SOC to 1 m depth
+  fileFormat: image/tiff
+  identifier: https://doi.org/10.7910/DVN/OCYUIT/BSSIA3
+  name: mSOC_Dec_2017_100m.tif
+- '@id': https://doi.org/10.7910/DVN/OCYUIT/CGNIYW
+  '@type': DataDownload
+  contentSize: 2017
+  contentUrl: https://dataverse.harvard.edu/api/access/datafile/3092479
+  fileFormat: text/xml
+  identifier: https://doi.org/10.7910/DVN/OCYUIT/CGNIYW
+  name: mSOC_Dec_2017_100m.tif.aux.xml
+- '@id': https://doi.org/10.7910/DVN/OCYUIT/BPSVVY
+  '@type': DataDownload
+  contentSize: 76525557
+  contentUrl: https://dataverse.harvard.edu/api/access/datafile/3092480
+  fileFormat: application/octet-stream
+  identifier: https://doi.org/10.7910/DVN/OCYUIT/BPSVVY
+  name: mSOC_Dec_2017_100m.tif.ovr
+- '@id': https://doi.org/10.7910/DVN/OCYUIT/WUOCAN
+  '@type': DataDownload
+  contentSize: 6418
+  contentUrl: https://dataverse.harvard.edu/api/access/datafile/3092481
+  fileFormat: text/xml
+  identifier: https://doi.org/10.7910/DVN/OCYUIT/WUOCAN
+  name: mSOC_Dec_2017_100m.tif.xml
+- '@id': https://doi.org/10.7910/DVN/OCYUIT/JBHMFI
+  '@type': DataDownload
+  contentSize: 1645127
+  contentUrl: https://dataverse.harvard.edu/api/access/datafile/3031911
+  description: 'shape file with tile IDs necessary for finding the correct 30 m resolution
+    soil carbon tiles '
+  fileFormat: application/zipped-shapefile
+  identifier: https://doi.org/10.7910/DVN/OCYUIT/JBHMFI
+  name: ov_mangrove_tiles.zip
+- '@id': https://doi.org/10.7910/DVN/OCYUIT/JI1VJO
+  '@type': DataDownload
+  contentSize: 14501
+  contentUrl: https://dataverse.harvard.edu/api/access/datafile/3336440
+  description: updated database of soil carbon and bulk density under mangroves
+  fileFormat: text/tab-separated-values
+  identifier: https://doi.org/10.7910/DVN/OCYUIT/JI1VJO
+  name: WHRC-TNC mangrove soc database 100718.tab
+- '@id': https://doi.org/10.7910/DVN/OCYUIT/P549RN
+  '@type': DataDownload
+  contentSize: 965744
+  contentUrl: https://dataverse.harvard.edu/api/access/datafile/3031912
+  description: shape file with merged continental and ocean allocation to each nation
+    for calculating country level statistics for mangroves
+  fileFormat: application/zipped-shapefile
+  identifier: https://doi.org/10.7910/DVN/OCYUIT/P549RN
+  name: whrc_mangrove_landOceanAllocation_June2017.zip
+identifier: https://doi.org/10.7910/DVN/OCYUIT
+includedInDataCatalog:
+  '@type': DataCatalog
+  name: Harvard Dataverse
+  url: https://dataverse.harvard.edu
+keywords:
+- Earth and Environmental Sciences
+- mangrove forest
+- soil carbon
+- blue carbon
+- climate mitigation
+license: http://creativecommons.org/publicdomain/zero/1.0
+name: 'Global mangrove soil carbon: dataset and spatial maps'
+provider:
+  '@type': Organization
+  name: Harvard Dataverse
+publisher:
+  '@type': Organization
+  name: Harvard Dataverse
+version: '4'

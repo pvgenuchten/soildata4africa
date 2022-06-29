@@ -1,0 +1,50 @@
+'@context': https://schema.org
+'@graph':
+- '@id': https://www.isda-africa.com/#website
+  '@type': WebSite
+  description: iSDA
+  inLanguage: en-US
+  name: iSDA
+  potentialAction:
+  - '@type': SearchAction
+    query-input: required name=search_term_string
+    target:
+      '@type': EntryPoint
+      urlTemplate: https://www.isda-africa.com/?s={search_term_string}
+  url: https://www.isda-africa.com/
+- '@id': https://www.isda-africa.com/isdasoil/#primaryimage
+  '@type': ImageObject
+  contentUrl: https://www.isda-africa.com/wp-content/uploads/2020/10/Screenshot-2020-10-30-at-15.30.34.png
+  height: 949
+  inLanguage: en-US
+  url: https://www.isda-africa.com/wp-content/uploads/2020/10/Screenshot-2020-10-30-at-15.30.34.png
+  width: 1115
+- '@id': https://www.isda-africa.com/isdasoil/#webpage
+  '@type': WebPage
+  breadcrumb:
+    '@id': https://www.isda-africa.com/isdasoil/#breadcrumb
+  dateModified: '2020-11-13T12:58:04+00:00'
+  datePublished: '2020-06-04T14:25:11+00:00'
+  description: iSDAsoil - An information revolution for small farms in Africa. Soil
+    property maps at 30m resolution.
+  inLanguage: en-US
+  isPartOf:
+    '@id': https://www.isda-africa.com/#website
+  name: iSDAsoil
+  potentialAction:
+  - '@type': ReadAction
+    target:
+    - https://www.isda-africa.com/isdasoil/
+  primaryImageOfPage:
+    '@id': https://www.isda-africa.com/isdasoil/#primaryimage
+  url: https://www.isda-africa.com/isdasoil/
+- '@id': https://www.isda-africa.com/isdasoil/#breadcrumb
+  '@type': BreadcrumbList
+  itemListElement:
+  - '@type': ListItem
+    item: https://www.isda-africa.com/
+    name: Home
+    position: 1
+  - '@type': ListItem
+    name: iSDAsoil Homepage
+    position: 2

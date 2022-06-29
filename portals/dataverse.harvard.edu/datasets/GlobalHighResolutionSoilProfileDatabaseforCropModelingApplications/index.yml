@@ -1,0 +1,109 @@
+'@context': http://schema.org
+'@id': https://doi.org/10.7910/DVN/1PEEY0
+'@type': Dataset
+author:
+- name: International Research Institute for Climate and Society (IRI)
+- name: Michigan State University (MSU)
+- name: HarvestChoice, International Food Policy Research Institute (IFPRI)
+citation:
+- '@id': https://doi.org/10.1371/journal.pone.0105992
+  '@type': CreativeWork
+  identifier: https://doi.org/10.1371/journal.pone.0105992
+  text: "Hengl T, de Jesus JM, MacMillan RA, Batjes NH, Heuvelink GBM, Ribeiro E,\
+    \ et al. (2014) SoilGrids1km \u2014 Global Soil Information Based on Automated\
+    \ Mapping. PLoS ONE 9(8): e105992."
+creator:
+- name: International Research Institute for Climate and Society (IRI)
+- name: Michigan State University (MSU)
+- name: HarvestChoice, International Food Policy Research Institute (IFPRI)
+dateModified: '2018-12-18'
+datePublished: '2015-10-15'
+description:
+- "One of the obstacles in applying advanced crop simulation models such as DSSAT\
+  \ at a grid-based platform is the lack of gridded soil input data at various resolutions.\
+  \ Recently, there has been many efforts in scientific communities to develop spatially\
+  \ continuous soil database across the globe. The most representative example is\
+  \ the SoilGrids 1km released by ISRIC in 2014. In addition recent AfSIS project\
+  \ put a lot of efforts to develop more accurate soil database in Africa at high\
+  \ spatial resolution. Taking advantage of those two available high resolution soil\
+  \ databases (SoilGrids 1km and ISRIC-AfSIS at 1km resolution), this project aims\
+  \ to develop a set of DSSAT compatible soil profiles on 5 arc-minute grid (which\
+  \ is HarvestChoice\u2019s standard grid). Six soil properties (bulk density, organic\
+  \ carbon, percentage of clay and silt, soil pH and cation exchange capacity) available\
+  \ from the original SoilGrids 1km or ISRIC-AfSIS were directly used as DSSAT inputs.\
+  \ We applied a pedo-transfer function to derive some soil hydraulic properties (saturated\
+  \ hydraulic conductivity, soil water content at field capacity, wilting point and\
+  \ saturation) which are critical to simulate crop growth. For other required variables,\
+  \ HarvestChoice\u2019s HC27 database are used as a reference. Final outputs are\
+  \ provided in *.SOL file format (DSSAT soil database) for each country at 5-min\
+  \ resolution. In addition, uncertainty maps for organic carbon and soil water content\
+  \ at wilting points at the top 15 cm soil layers were generated to provide brief\
+  \ idea about accuracy of the final products. The generated soil properties were\
+  \ evaluated by visualizing their global maps and by comparing them with IIASA-IFPRI\
+  \ cropland map and AfSIS-GYGA\u2019s available water content maps."
+distribution:
+- '@id': https://doi.org/10.7910/DVN/1PEEY0/LELDCJ
+  '@type': DataDownload
+  contentSize: 4994413
+  description: A HarvestChoice Working Paper drafted by the dataset authors, describing
+    the data sources, methodology, and preliminary data evaluation results compared
+    with other datasets.
+  fileFormat: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+  identifier: https://doi.org/10.7910/DVN/1PEEY0/LELDCJ
+  name: Han 2015 - HC Working Paper - Global High-resolution Soil Profile Database
+    for Crop Modeling Applications (Sep 15).docx
+- '@id': https://doi.org/10.7910/DVN/1PEEY0/CIMWRJ
+  '@type': DataDownload
+  contentSize: 36688726
+  description: Point shapefile indicating the centroid of 10 km (5 arc-minute) grids
+    and the corresponding SoilProfileID. There are 1,984,823 points and soil profiles
+    in total, globally.
+  fileFormat: application/zipped-shapefile
+  identifier: https://doi.org/10.7910/DVN/1PEEY0/CIMWRJ
+  name: Point5m_SoilGrids-for-DSSAT-10km_v1.shp.zip
+- '@id': https://doi.org/10.7910/DVN/1PEEY0/OG0STZ
+  '@type': DataDownload
+  contentSize: 319665403
+  description: Includes 225 DSSAT Soil Profiles Database files (SOL format). Two-character
+    code in the file name corresponds with the ISO 3166-2 standard country code system.
+    [Lat] and [Long] indicates the centroid coordinates for the corresponding 10 km
+    (5 arc-minute) grid cell.
+  fileFormat: application/zip
+  identifier: https://doi.org/10.7910/DVN/1PEEY0/OG0STZ
+  name: SoilGrids-for-DSSAT-10km v1.0 (by country).zip
+- '@id': https://doi.org/10.7910/DVN/1PEEY0/O1LZYA
+  '@type': DataDownload
+  contentSize: 23365375
+  description: 'GeoTiff files visualizing the uncertainties of soil profile data from
+    two sources: spatial variability and variance of the representative value in a
+    given 10 km (5 arc-min) grid cell. See the Working Paper''s [Section 3.2. Uncertainty
+    estimation] for details.'
+  fileFormat: application/zip
+  identifier: https://doi.org/10.7910/DVN/1PEEY0/O1LZYA
+  name: SoilGrids-for-DSSAT-10km v1.0 (uncertainty estimates).zip
+funder:
+- '@type': Organization
+  name: USAID Bureau of Food Security
+- '@type': Organization
+  name: CGIAR Research Program on Policies, Institutions, and Markets (PIM)
+identifier: https://doi.org/10.7910/DVN/1PEEY0
+includedInDataCatalog:
+  '@type': DataCatalog
+  name: Harvard Dataverse
+  url: https://dataverse.harvard.edu
+keywords:
+- Earth and Environmental Sciences
+- Computer and Information Science
+- Agricultural Sciences
+- crop modelling
+- soil profiles
+- crop modelling
+license: https://dataverse.harvard.edu/api/datasets/:persistentId/versions/2.6/customlicense?persistentId=doi:10.7910/DVN/1PEEY0
+name: Global High-Resolution Soil Profile Database for Crop Modeling Applications
+provider:
+  '@type': Organization
+  name: Harvard Dataverse
+publisher:
+  '@type': Organization
+  name: Harvard Dataverse
+version: '2'

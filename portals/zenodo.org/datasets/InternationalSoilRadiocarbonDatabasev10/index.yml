@@ -1,0 +1,175 @@
+'@context': https://schema.org/
+'@id': https://doi.org/10.5281/zenodo.2613911
+'@type': Dataset
+creator:
+- '@id': https://orcid.org/0000-0001-6143-7781
+  '@type': Person
+  affiliation: US Geological Survey
+  name: Lawrence, Corey R.
+- '@type': Person
+  affiliation: Max-Planck Institute for Biogeochemistry
+  name: Beem-Miller, Jeffery
+- '@id': https://orcid.org/0000-0003-0813-5084
+  '@type': Person
+  affiliation: Max-Planck Institute for Biogeochemistry
+  name: Hoyt, Alison M.
+- '@type': Person
+  affiliation: Colorado State University
+  name: Monroe, Grey
+- '@id': https://orcid.org/0000-0003-0009-4169
+  '@type': Person
+  affiliation: Max-Planck Institute for Biogeochemistry
+  name: Sierra, Carlos A.
+- '@id': https://orcid.org/0000-0002-6977-4587
+  '@type': Person
+  affiliation: Max-Planck Institute for Biogeochemistry
+  name: Stoner, Shane
+- '@id': https://orcid.org/0000-0003-2265-4542
+  '@type': Person
+  affiliation: US Forest Service
+  name: Heckman, Katherine
+- '@id': https://orcid.org/0000-0001-5154-7354
+  '@type': Person
+  affiliation: University of Arizona
+  name: Blankinship, Joseph C.
+- '@id': https://orcid.org/0000-0001-8735-1580
+  '@type': Person
+  affiliation: University of Hawaii
+  name: Crow, Susan E.
+- '@type': Person
+  affiliation: Stanford University
+  name: McNicol, Gavin
+- '@id': https://orcid.org/0000-0003-3885-6202
+  '@type': Person
+  affiliation: Max-Planck Institute for Biogeochemistry
+  name: Trumbore, Susan
+- '@id': https://orcid.org/0000-0002-1248-6920
+  '@type': Person
+  affiliation: University of California Irvine
+  name: Levine, Paul A.
+- '@type': Person
+  affiliation: Stanford University
+  name: "Vindu\u0161kov\xE1, Olga"
+- '@id': https://orcid.org/0000-0002-3109-8130
+  '@type': Person
+  affiliation: Wilfred Laurier
+  name: Todd-Brown, Katherine
+- '@type': Person
+  affiliation: University of Arizona
+  name: Rasmussen, Craig
+- '@type': Person
+  affiliation: Dartmouth College
+  name: Hick Pries, Caitlin E.
+- '@type': Person
+  affiliation: Northern Arizona University
+  name: "Sch\xE4del, Christina"
+- '@type': Person
+  affiliation: Lawrence Livermore National Laboratory
+  name: McFarlane, Karis
+- '@type': Person
+  affiliation: ETH Zurich
+  name: Doetterl, Sebastian
+- '@type': Person
+  affiliation: "Universit\xE9 Paris Saclay"
+  name: "Hatt\xE9, Christine"
+- '@type': Person
+  affiliation: University of California Irvine
+  name: He, Yujie
+- '@type': Person
+  affiliation: University of Eastern Finland
+  name: Treat, Claire
+- '@type': Person
+  affiliation: Stanford University
+  name: Harden, Jennifer W.
+- '@type': Person
+  affiliation: Lawrence Berkeley National Laboratory
+  name: Torn, Margaret S.
+- '@id': https://orcid.org/0000-0003-3231-9967
+  '@type': Person
+  affiliation: University of Alberta
+  name: "Estop-Aragon\xE9s, Cristian"
+- '@type': Person
+  affiliation: University of California Merced
+  name: Berhe, Asmeret Asefaw
+- '@type': Person
+  affiliation: University of Massachusetts-Amherst
+  name: Keiluweit, Marco
+- '@type': Person
+  affiliation: University of Wisconsin-Madison
+  name: Marin-Spiotta, Erika
+- '@type': Person
+  affiliation: University of Pennsylvania
+  name: Plante, Alain F.
+- '@type': Person
+  affiliation: University of Georgia
+  name: Thomson, Aaron
+- '@type': Person
+  affiliation: University of California Santa Barbara
+  name: Schimel, Joshua P.
+- '@type': Person
+  affiliation: Lawrence Berkeley National Laboratory
+  name: Vaughn, Lydia J. S.
+- '@type': Person
+  affiliation: National Agriculture and Food Research Organizaon
+  name: Wagai, Rota
+datePublished: '2019-03-28'
+description: <p>Synthesized soils data associated with v1.0 of the International Soil
+  Radiocarbon Database. Detailed information about this dataset can be found at <a
+  href="http://soilradiocarbon.org">soilradiocarbon.org</a>.</p>
+distribution:
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/b029ace9-3878-4678-b509-5ef9c1752e72/ISRaD_data_flat_flux_v1-2019-03-27.csv
+  encodingFormat: csv
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/b029ace9-3878-4678-b509-5ef9c1752e72/ISRaD_data_flat_fraction_v1-2019-03-27.csv
+  encodingFormat: csv
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/b029ace9-3878-4678-b509-5ef9c1752e72/ISRaD_data_flat_incubation_v1-2019-03-27.csv
+  encodingFormat: csv
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/b029ace9-3878-4678-b509-5ef9c1752e72/ISRaD_data_flat_interstitial_v1-2019-03-27.csv
+  encodingFormat: csv
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/b029ace9-3878-4678-b509-5ef9c1752e72/ISRaD_data_flat_layer_v1-2019-03-27.csv
+  encodingFormat: csv
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/b029ace9-3878-4678-b509-5ef9c1752e72/ISRaD_data_list_v1-2019-03-27.xlsx
+  encodingFormat: xlsx
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/b029ace9-3878-4678-b509-5ef9c1752e72/ISRaD_data.rda
+  encodingFormat: rda
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/b029ace9-3878-4678-b509-5ef9c1752e72/ISRaD_extra_flat_flux_v1-2019-03-27.csv
+  encodingFormat: csv
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/b029ace9-3878-4678-b509-5ef9c1752e72/ISRaD_extra_flat_fraction_v1-2019-03-27.csv
+  encodingFormat: csv
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/b029ace9-3878-4678-b509-5ef9c1752e72/ISRaD_extra_flat_incubation_v1-2019-03-27.csv
+  encodingFormat: csv
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/b029ace9-3878-4678-b509-5ef9c1752e72/ISRaD_extra_flat_interstitial_v1-2019-03-27.csv
+  encodingFormat: csv
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/b029ace9-3878-4678-b509-5ef9c1752e72/ISRaD_extra_flat_layer_v1-2019-03-27.csv
+  encodingFormat: csv
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/b029ace9-3878-4678-b509-5ef9c1752e72/ISRaD_extra_list_v1-2019-03-27.xlsx
+  encodingFormat: xlsx
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/b029ace9-3878-4678-b509-5ef9c1752e72/ISRaD_extra.rda
+  encodingFormat: rda
+identifier: https://doi.org/10.5281/zenodo.2613911
+inLanguage:
+  '@type': Language
+  alternateName: eng
+  name: English
+keywords:
+- soils
+- radiocarbon
+- biogeochemistry
+- carbon cycle
+license: https://creativecommons.org/licenses/by/4.0/legalcode
+name: International Soil Radiocarbon Database v1.0
+url: https://zenodo.org/record/2613911
+version: v1.0

@@ -1,0 +1,9 @@
+abstract: null
+contact:
+  email: ''
+  name: ''
+  organisation: ''
+identifier: vdb3.soil.csdb.cn
+license: ''
+name: Predicted colours of Chinese soils
+url: http://vdb3.soil.csdb.cn/extend/jsp/color1km

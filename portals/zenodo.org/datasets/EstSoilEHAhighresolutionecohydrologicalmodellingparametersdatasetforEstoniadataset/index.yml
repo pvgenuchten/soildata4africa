@@ -1,0 +1,121 @@
+'@context': https://schema.org/
+'@id': https://doi.org/10.5281/zenodo.4291855
+'@type': Dataset
+about:
+- '@id': https://www.eionet.europa.eu/gemet/en/theme/35
+  '@type': CreativeWork
+- '@id': https://www.eionet.europa.eu/gemet/en/group/4856
+  '@type': CreativeWork
+- '@id': https://www.eionet.europa.eu/gemet/en/concept/4855
+  '@type': CreativeWork
+- '@id': https://www.eionet.europa.eu/gemet/en/concept/15138
+  '@type': CreativeWork
+creator:
+- '@id': https://orcid.org/0000-0003-4386-4450
+  '@type': Person
+  affiliation: University of Tartu
+  name: Kmoch, Alexander
+- '@type': Person
+  affiliation: University of Tartu
+  name: Kanal, Arno
+- '@id': https://orcid.org/0000-0002-8924-6925
+  '@type': Person
+  affiliation: Estonian University of Life Sciences
+  name: Astover, Alar
+- '@id': https://orcid.org/0000-0002-7534-3927
+  '@type': Person
+  affiliation: University of Tartu
+  name: Kull, Ain
+- '@id': https://orcid.org/0000-0001-6110-5453
+  '@type': Person
+  affiliation: University of Tartu
+  name: Virro, Holger
+- '@id': https://orcid.org/0000-0003-2338-4564
+  '@type': Person
+  affiliation: University of Tartu
+  name: Helm, Aveliina
+- '@id': https://orcid.org/0000-0002-5874-0138
+  '@type': Person
+  affiliation: University of Tartu
+  name: "P\xE4rtel, Meelis"
+- '@id': https://orcid.org/0000-0001-9043-6083
+  '@type': Person
+  affiliation: University of Tartu
+  name: Ostonen, Ivika
+- '@id': https://orcid.org/0000-0002-0782-6740
+  '@type': Person
+  affiliation: University of Tartu
+  name: Uuemaa, Evelyn
+datePublished: '2020-11-26'
+description: '<p>For the EstSoil-EH dataset, we synthesized more than 20 extended
+  eco-hydrological variables for Estonia&nbsp; as numerical and categorical values
+  from the original Soil Map of Estonia, the Estonian 5m Lidar DEM, Estonian Topographic
+  Database and EU-HydroSoilGrids layers. The Soil Map of Estonia maps more than 750
+  000 soil units throughout Estonia at a scale of 1:10 000 and forms the basis for
+  EstSoil-EH. It is the most detailed and information-rich dataset for soils in Estonia,
+  with 75% of mapped units smaller than 4.0 ha, based on Soviet era field mapping.
+  For each soil unit, it describes the soil type (i.e. soil reference group), soil
+  texture, and layer information with a composite text code, which comprises not only
+  of the actual texture class, but also of classifiers for rock content, peat soils,
+  distinct compositional layers and their depths. To use these as eco-hydrological
+  process properties in modelling applications we translated the text codes into numbers.
+  The derived parameters include soil profiles (e.g., layers, depths), texture (clay,
+  silt, sand components), coarse fragments and rock content. In addition, we aggregated
+  and predicted physical variables related to water and carbon (bulk density, hydraulic
+  conductivity, organic carbon content, available water capacity).<br>
+
+  The developed methodology and dataset will be an important resource for the Baltic
+  region, but possibly also all other regions where detailed field-based soil mapping
+  data is available. Countries like Lithuania and Latvia have similar historical soil
+  records from the Soviet era that could be turned into value-added datasets such
+  as the one we developed for Estonia.</p>
+
+
+  <p>&nbsp;</p>
+
+
+  <p>We created an extended eco-hydrological dataset for Estonia, the EstSoil-EH,
+  containing derived numerical values for the following data in all of the mapped
+  soil units in the 1:10 000 soil map: soil profiles (e.g., layers, depths), texture
+  (clay, silt, and sand components), rockiness, and physical variables related to
+  water and carbon (bulk density, hydraulic conductivity, organic carbon content).
+  Ultimately, our objective was to develop a reproducible method for deriving numerical
+  values to support modelling and prediction of eco-hydrological processes in Estonia
+  using the popular Soil and Water Assessment Tool.</p>
+
+
+  <p>For more information on the development of this dataset look for &quot;EstSoil-EH:
+  a high-resolution eco-hydrological modelling parameters dataset for Estonia&quot;,&nbsp;Alexander
+  Kmoch, Arno Kanal&dagger;, Alar Astover, Ain Kull, Holger Virro, Aveliina Helm,
+  Meelis P&auml;rtel, Ivika Ostonen and Evelyn Uuemaa, 2021, Earth Syst. Sci. Data,
+  13, 83&ndash;97, <a href="https://doi.org/10.5194/essd-13-83-2021">https://doi.org/10.5194/essd-13-83-2021</a>&nbsp;</p>'
+distribution:
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/ce4750d2-ddbf-4836-9bf0-7b13917fc6fe/attributes.xlsx
+  encodingFormat: xlsx
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/ce4750d2-ddbf-4836-9bf0-7b13917fc6fe/data_deposit_supplements_1.2c.zip
+  encodingFormat: zip
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/ce4750d2-ddbf-4836-9bf0-7b13917fc6fe/EstSoil-EH_v1.2c.gpkg
+  encodingFormat: gpkg
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/ce4750d2-ddbf-4836-9bf0-7b13917fc6fe/EstSoil-EH_v1.2c.shp.zip
+  encodingFormat: zip
+- '@type': DataDownload
+  contentUrl: https://zenodo.org/api/files/ce4750d2-ddbf-4836-9bf0-7b13917fc6fe/README.txt
+  encodingFormat: txt
+identifier: https://doi.org/10.5281/zenodo.4291855
+inLanguage:
+  '@type': Language
+  alternateName: eng
+  name: English
+keywords:
+- soil, texture, FAO, WRB, available water capacity, AWC, estonia, soilmap, hydraulic
+  properties, soil organic carbon, SOC, bulk density, saturated hydraulic conductivity,
+  ecosystem services
+license: https://opendatacommons.org/licenses/odbl/1-0/
+name: 'EstSoil-EH: A high-resolution eco-hydrological modelling parameters dataset
+  for Estonia (dataset)'
+url: https://zenodo.org/record/4291855
+version: v1.2c

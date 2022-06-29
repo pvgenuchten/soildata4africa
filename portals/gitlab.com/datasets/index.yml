@@ -1,0 +1,11 @@
+'@context': https://schema.org
+'@type': BreadcrumbList
+itemListElement:
+- '@type': ListItem
+  item: https://gitlab.com/openlandmap
+  name: OpenLandMap
+  position: 1
+- '@type': ListItem
+  item: https://gitlab.com/openlandmap/compiled-ess-point-data-sets
+  name: Compiled ESS point data sets
+  position: 2

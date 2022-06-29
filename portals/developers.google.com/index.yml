@@ -1,0 +1,9 @@
+abstract: null
+contact:
+  email: ''
+  name: ''
+  organisation: ''
+identifier: developers.google.com
+license: ''
+name: Google Earth Engine (GEE) soils layers
+url: https://developers.google.com/earth-engine/datasets/tags/soil
